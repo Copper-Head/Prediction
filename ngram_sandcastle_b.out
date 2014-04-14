@@ -1,0 +1,2124 @@
+the librarian documented which celebrities the journalist had interviewed for the magazine.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( librarian | the ...) 	= [3gram] 2.97511e-06 [ -5.5265 ]
+	p( documented | librarian ...) 	= [1gram] 6.9941e-06 [ -5.15527 ]
+	p( which | documented ...) 	= [2gram] 0.000404512 [ -3.39307 ]
+	p( celebrities | which ...) 	= [2gram] 2.03618e-05 [ -4.69118 ]
+	p( the | celebrities ...) 	= [2gram] 0.00229081 [ -2.64001 ]
+	p( journalist | the ...) 	= [2gram] 6.81104e-05 [ -4.16679 ]
+	p( had | journalist ...) 	= [3gram] 0.00779118 [ -2.1084 ]
+	p( interviewed | had ...) 	= [2gram] 7.65864e-05 [ -4.11585 ]
+	p( for | interviewed ...) 	= [3gram] 0.0386225 [ -1.41316 ]
+	p( the | for ...) 	= [4gram] 0.264724 [ -0.577206 ]
+	p( <unk> | the ...) 	= [1gram] 0.000276878 [ -3.55771 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -39.8622 ppl= 1164.99 ppl1= 2098.2
+
+the librarian documented which journalist the celebrities had interviewed for the magazine.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( librarian | the ...) 	= [3gram] 2.97511e-06 [ -5.5265 ]
+	p( documented | librarian ...) 	= [1gram] 6.9941e-06 [ -5.15527 ]
+	p( which | documented ...) 	= [2gram] 0.000404512 [ -3.39307 ]
+	p( journalist | which ...) 	= [2gram] 4.81505e-06 [ -5.3174 ]
+	p( the | journalist ...) 	= [2gram] 0.00299017 [ -2.5243 ]
+	p( celebrities | the ...) 	= [2gram] 2.10661e-05 [ -4.67642 ]
+	p( had | celebrities ...) 	= [2gram] 0.00303395 [ -2.51799 ]
+	p( interviewed | had ...) 	= [2gram] 9.08791e-05 [ -4.04154 ]
+	p( for | interviewed ...) 	= [3gram] 0.0386225 [ -1.41316 ]
+	p( the | for ...) 	= [4gram] 0.264724 [ -0.577206 ]
+	p( <unk> | the ...) 	= [1gram] 0.000276878 [ -3.55771 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -41.2176 ppl= 1481.1 ppl1= 2721.44
+
+the old widower remembered which villager the ghost had haunted for many years.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( old | the ...) 	= [3gram] 0.00212004 [ -2.67366 ]
+	p( widower | old ...) 	= [2gram] 1.45278e-05 [ -4.8378 ]
+	p( remembered | widower ...) 	= [1gram] 9.48936e-06 [ -5.02276 ]
+	p( which | remembered ...) 	= [2gram] 0.000534371 [ -3.27216 ]
+	p( villager | which ...) 	= [1gram] 1.09532e-06 [ -5.96046 ]
+	p( the | villager ...) 	= [1gram] 0.00252149 [ -2.59834 ]
+	p( ghost | the ...) 	= [2gram] 4.40209e-05 [ -4.35634 ]
+	p( had | ghost ...) 	= [2gram] 0.000567743 [ -3.24585 ]
+	p( haunted | had ...) 	= [2gram] 7.29169e-06 [ -5.13717 ]
+	p( for | haunted ...) 	= [2gram] 0.00414946 [ -2.38201 ]
+	p( many | for ...) 	= [2gram] 0.00390055 [ -2.40887 ]
+	p( <unk> | many ...) 	= [1gram] 0.000415205 [ -3.38174 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -47.7942 ppl= 2593.41 ppl1= 4747.62
+
+the old widower remembered which ghost the villager had haunted for many years.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( old | the ...) 	= [3gram] 0.00212004 [ -2.67366 ]
+	p( widower | old ...) 	= [2gram] 1.45278e-05 [ -4.8378 ]
+	p( remembered | widower ...) 	= [1gram] 9.48936e-06 [ -5.02276 ]
+	p( which | remembered ...) 	= [2gram] 0.000534371 [ -3.27216 ]
+	p( ghost | which ...) 	= [1gram] 3.80923e-06 [ -5.41916 ]
+	p( the | ghost ...) 	= [2gram] 0.00275127 [ -2.56047 ]
+	p( villager | the ...) 	= [2gram] 3.87043e-06 [ -5.41224 ]
+	p( had | villager ...) 	= [2gram] 0.00216096 [ -2.66535 ]
+	p( haunted | had ...) 	= [2gram] 7.33544e-06 [ -5.13457 ]
+	p( for | haunted ...) 	= [2gram] 0.00414946 [ -2.38201 ]
+	p( many | for ...) 	= [2gram] 0.00390055 [ -2.40887 ]
+	p( <unk> | many ...) 	= [1gram] 0.000415205 [ -3.38174 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -47.6878 ppl= 2548.43 ppl1= 4659.02
+
+the firefighter reported which victim the paramedic had saved after the fire.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( firefighter | the ...) 	= [2gram] 1.67754e-06 [ -5.77533 ]
+	p( reported | firefighter ...) 	= [1gram] 0.0001017 [ -3.99268 ]
+	p( which | reported ...) 	= [2gram] 0.000261033 [ -3.5833 ]
+	p( victim | which ...) 	= [2gram] 6.46415e-06 [ -5.18949 ]
+	p( the | victim ...) 	= [2gram] 0.00373193 [ -2.42807 ]
+	p( paramedic | the ...) 	= [2gram] 2.75992e-06 [ -5.5591 ]
+	p( had | paramedic ...) 	= [2gram] 0.00137361 [ -2.86214 ]
+	p( saved | had ...) 	= [2gram] 0.000269238 [ -3.56986 ]
+	p( after | saved ...) 	= [2gram] 0.00225462 [ -2.64693 ]
+	p( the | after ...) 	= [3gram] 0.108231 [ -0.965647 ]
+	p( <unk> | the ...) 	= [1gram] 0.000384304 [ -3.41532 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -42.5049 ppl= 1860.41 ppl1= 3483.97
+
+the firefighter reported which paramedic the victim had saved after the fire.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( firefighter | the ...) 	= [2gram] 1.67754e-06 [ -5.77533 ]
+	p( reported | firefighter ...) 	= [1gram] 0.0001017 [ -3.99268 ]
+	p( which | reported ...) 	= [2gram] 0.000261033 [ -3.5833 ]
+	p( paramedic | which ...) 	= [1gram] 5.04017e-07 [ -6.29755 ]
+	p( the | paramedic ...) 	= [2gram] 0.0026262 [ -2.58067 ]
+	p( victim | the ...) 	= [2gram] 0.00030994 [ -3.50872 ]
+	p( had | victim ...) 	= [3gram] 0.0143813 [ -1.8422 ]
+	p( saved | had ...) 	= [2gram] 0.000230916 [ -3.63655 ]
+	p( after | saved ...) 	= [2gram] 0.00225462 [ -2.64693 ]
+	p( the | after ...) 	= [3gram] 0.108231 [ -0.965647 ]
+	p( <unk> | the ...) 	= [1gram] 0.000384304 [ -3.41532 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -40.7619 ppl= 1366.26 ppl1= 2493.61
+
+the historian documented which prince the assassin had killed in the 10th century.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( historian | the ...) 	= [3gram] 5.34834e-06 [ -5.27178 ]
+	p( documented | historian ...) 	= [1gram] 5.26372e-06 [ -5.27871 ]
+	p( which | documented ...) 	= [2gram] 0.000404512 [ -3.39307 ]
+	p( prince | which ...) 	= [2gram] 1.95612e-05 [ -4.7086 ]
+	p( the | prince ...) 	= [2gram] 0.00217056 [ -2.66343 ]
+	p( assassin | the ...) 	= [2gram] 8.21077e-06 [ -5.08562 ]
+	p( had | assassin ...) 	= [2gram] 0.00429923 [ -2.36661 ]
+	p( killed | had ...) 	= [2gram] 0.000808496 [ -3.09232 ]
+	p( in | killed ...) 	= [3gram] 0.0509745 [ -1.29265 ]
+	p( the | in ...) 	= [4gram] 0.285307 [ -0.544688 ]
+	p( 10th | the ...) 	= [3gram] 0.000102511 [ -3.98923 ]
+	p( <unk> | 10th ...) 	= [1gram] 0.00120175 [ -2.92019 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.1239 ppl= 1203.04 ppl1= 2075.99
+
+the historian documented which assassin the prince had killed in the 10th century.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( historian | the ...) 	= [3gram] 5.34834e-06 [ -5.27178 ]
+	p( documented | historian ...) 	= [1gram] 5.26372e-06 [ -5.27871 ]
+	p( which | documented ...) 	= [2gram] 0.000404512 [ -3.39307 ]
+	p( assassin | which ...) 	= [1gram] 1.13795e-06 [ -5.94388 ]
+	p( the | assassin ...) 	= [2gram] 0.00274423 [ -2.56158 ]
+	p( prince | the ...) 	= [2gram] 0.00010199 [ -3.99144 ]
+	p( had | prince ...) 	= [3gram] 0.00378122 [ -2.42237 ]
+	p( killed | had ...) 	= [2gram] 0.000813085 [ -3.08986 ]
+	p( in | killed ...) 	= [3gram] 0.0509745 [ -1.29265 ]
+	p( the | in ...) 	= [4gram] 0.285307 [ -0.544688 ]
+	p( 10th | the ...) 	= [3gram] 0.000102511 [ -3.98923 ]
+	p( <unk> | 10th ...) 	= [1gram] 0.00120175 [ -2.92019 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.2165 ppl= 1221.49 ppl1= 2110.3
+
+the park ranger documented which eagle the hunter had shot with a rifle.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( park | the ...) 	= [3gram] 0.000105091 [ -3.97843 ]
+	p( ranger | park ...) 	= [2gram] 0.00065137 [ -3.18617 ]
+	p( documented | ranger ...) 	= [1gram] 7.87881e-06 [ -5.10354 ]
+	p( which | documented ...) 	= [2gram] 0.000404512 [ -3.39307 ]
+	p( eagle | which ...) 	= [1gram] 5.38397e-06 [ -5.2689 ]
+	p( the | eagle ...) 	= [2gram] 0.003023 [ -2.51956 ]
+	p( hunter | the ...) 	= [2gram] 1.24966e-05 [ -4.90321 ]
+	p( had | hunter ...) 	= [2gram] 0.00418763 [ -2.37803 ]
+	p( shot | had ...) 	= [2gram] 0.000295057 [ -3.53009 ]
+	p( with | shot ...) 	= [2gram] 0.00490933 [ -2.30898 ]
+	p( a | with ...) 	= [3gram] 0.148001 [ -0.829735 ]
+	p( <unk> | a ...) 	= [1gram] 0.000344107 [ -3.46331 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.3801 ppl= 1254.8 ppl1= 2172.34
+
+the park ranger documented which hunter the eagle had shot with a rifle.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( park | the ...) 	= [3gram] 0.000105091 [ -3.97843 ]
+	p( ranger | park ...) 	= [2gram] 0.00065137 [ -3.18617 ]
+	p( documented | ranger ...) 	= [1gram] 7.87881e-06 [ -5.10354 ]
+	p( which | documented ...) 	= [2gram] 0.000404512 [ -3.39307 ]
+	p( hunter | which ...) 	= [2gram] 4.71537e-06 [ -5.32648 ]
+	p( the | hunter ...) 	= [2gram] 0.0026323 [ -2.57966 ]
+	p( eagle | the ...) 	= [2gram] 2.62956e-05 [ -4.58012 ]
+	p( had | eagle ...) 	= [2gram] 0.00128372 [ -2.89153 ]
+	p( shot | had ...) 	= [2gram] 0.000287742 [ -3.541 ]
+	p( with | shot ...) 	= [2gram] 0.00490933 [ -2.30898 ]
+	p( a | with ...) 	= [3gram] 0.148001 [ -0.829735 ]
+	p( <unk> | a ...) 	= [1gram] 0.000344107 [ -3.46331 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.6991 ppl= 1322.4 ppl1= 2298.61
+
+the judo master recognized which defender the assailant had attacked late last night.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( judo | the ...) 	= [2gram] 1.36126e-06 [ -5.86606 ]
+	p( master | judo ...) 	= [2gram] 0.00112427 [ -2.94913 ]
+	p( recognized | master ...) 	= [1gram] 1.77376e-05 [ -4.7511 ]
+	p( which | recognized ...) 	= [2gram] 0.00027376 [ -3.56263 ]
+	p( defender | which ...) 	= [2gram] 2.67717e-06 [ -5.57232 ]
+	p( the | defender ...) 	= [2gram] 0.00243683 [ -2.61317 ]
+	p( assailant | the ...) 	= [2gram] 1.3732e-05 [ -4.86227 ]
+	p( had | assailant ...) 	= [2gram] 0.00866737 [ -2.06211 ]
+	p( attacked | had ...) 	= [2gram] 0.000341222 [ -3.46696 ]
+	p( late | attacked ...) 	= [2gram] 0.000183355 [ -3.73671 ]
+	p( last | late ...) 	= [2gram] 0.033714 [ -1.47219 ]
+	p( <unk> | last ...) 	= [1gram] 0.00023384 [ -3.63108 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -47.0628 ppl= 2299.47 ppl1= 4170.74
+
+the judo master recognized which assailant the defender had attacked late last night.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( judo | the ...) 	= [2gram] 1.36126e-06 [ -5.86606 ]
+	p( master | judo ...) 	= [2gram] 0.00112427 [ -2.94913 ]
+	p( recognized | master ...) 	= [1gram] 1.77376e-05 [ -4.7511 ]
+	p( which | recognized ...) 	= [2gram] 0.00027376 [ -3.56263 ]
+	p( assailant | which ...) 	= [1gram] 3.45474e-07 [ -6.46159 ]
+	p( the | assailant ...) 	= [2gram] 0.0030557 [ -2.51489 ]
+	p( defender | the ...) 	= [2gram] 1.45833e-05 [ -4.83614 ]
+	p( had | defender ...) 	= [3gram] 0.00231006 [ -2.63638 ]
+	p( attacked | had ...) 	= [2gram] 0.000326429 [ -3.48621 ]
+	p( late | attacked ...) 	= [2gram] 0.000183355 [ -3.73671 ]
+	p( last | late ...) 	= [2gram] 0.033714 [ -1.47219 ]
+	p( <unk> | last ...) 	= [1gram] 0.00023384 [ -3.63108 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -48.4211 ppl= 2875.1 ppl1= 5305.22
+
+the naturalist observed which predators the deer had avoided by sleeping in the daytime.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( naturalist | the ...) 	= [2gram] 5.70443e-07 [ -6.24379 ]
+	p( observed | naturalist ...) 	= [1gram] 2.3914e-05 [ -4.62135 ]
+	p( which | observed ...) 	= [2gram] 0.000412971 [ -3.38408 ]
+	p( predators | which ...) 	= [2gram] 1.55887e-06 [ -5.80719 ]
+	p( the | predators ...) 	= [2gram] 0.00288428 [ -2.53996 ]
+	p( deer | the ...) 	= [2gram] 5.28401e-05 [ -4.27704 ]
+	p( had | deer ...) 	= [2gram] 0.00165139 [ -2.78215 ]
+	p( avoided | had ...) 	= [2gram] 7.38481e-05 [ -4.13166 ]
+	p( by | avoided ...) 	= [2gram] 0.0196463 [ -1.70672 ]
+	p( sleeping | by ...) 	= [2gram] 3.04116e-05 [ -4.51696 ]
+	p( in | sleeping ...) 	= [3gram] 0.10352 [ -0.984977 ]
+	p( the | in ...) 	= [4gram] 0.309232 [ -0.509715 ]
+	p( <unk> | the ...) 	= [1gram] 0.000149944 [ -3.82407 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -47.8467 ppl= 1548.03 ppl1= 2615.9
+
+the naturalist observed which deer the predators had avoided by sleeping in the daytime.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( naturalist | the ...) 	= [2gram] 5.70443e-07 [ -6.24379 ]
+	p( observed | naturalist ...) 	= [1gram] 2.3914e-05 [ -4.62135 ]
+	p( which | observed ...) 	= [2gram] 0.000412971 [ -3.38408 ]
+	p( deer | which ...) 	= [2gram] 5.33587e-06 [ -5.27279 ]
+	p( the | deer ...) 	= [2gram] 0.00183903 [ -2.73541 ]
+	p( predators | the ...) 	= [2gram] 9.47648e-06 [ -5.02335 ]
+	p( had | predators ...) 	= [2gram] 0.00118786 [ -2.92524 ]
+	p( avoided | had ...) 	= [2gram] 7.84238e-05 [ -4.10555 ]
+	p( by | avoided ...) 	= [2gram] 0.0196463 [ -1.70672 ]
+	p( sleeping | by ...) 	= [2gram] 3.04116e-05 [ -4.51696 ]
+	p( in | sleeping ...) 	= [3gram] 0.10352 [ -0.984977 ]
+	p( the | in ...) 	= [4gram] 0.309232 [ -0.509715 ]
+	p( <unk> | the ...) 	= [1gram] 0.000149944 [ -3.82407 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -48.371 ppl= 1677.78 ppl1= 2851.5
+
+the restaurant owner forgot which customer the waitress had served during dinner yesterday.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( restaurant | the ...) 	= [3gram] 0.000111634 [ -3.9522 ]
+	p( owner | restaurant ...) 	= [3gram] 0.00817427 [ -2.08755 ]
+	p( forgot | owner ...) 	= [2gram] 1.19112e-05 [ -4.92404 ]
+	p( which | forgot ...) 	= [2gram] 0.00279175 [ -2.55412 ]
+	p( customer | which ...) 	= [2gram] 5.33432e-05 [ -4.27292 ]
+	p( the | customer ...) 	= [2gram] 0.00229862 [ -2.63853 ]
+	p( waitress | the ...) 	= [2gram] 7.28882e-06 [ -5.13734 ]
+	p( had | waitress ...) 	= [2gram] 0.00264061 [ -2.5783 ]
+	p( served | had ...) 	= [2gram] 0.00067846 [ -3.16848 ]
+	p( during | served ...) 	= [3gram] 0.00199975 [ -2.69902 ]
+	p( dinner | during ...) 	= [2gram] 0.000148633 [ -3.82788 ]
+	p( <unk> | dinner ...) 	= [1gram] 0.00100375 [ -2.99837 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.3558 ppl= 1249.81 ppl1= 2163.03
+
+the restaurant owner forgot which waitress the customer had served during dinner yesterday.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( restaurant | the ...) 	= [3gram] 0.000111634 [ -3.9522 ]
+	p( owner | restaurant ...) 	= [3gram] 0.00817427 [ -2.08755 ]
+	p( forgot | owner ...) 	= [2gram] 1.19112e-05 [ -4.92404 ]
+	p( which | forgot ...) 	= [2gram] 0.00279175 [ -2.55412 ]
+	p( waitress | which ...) 	= [1gram] 4.66832e-07 [ -6.33084 ]
+	p( the | waitress ...) 	= [2gram] 0.00303709 [ -2.51754 ]
+	p( customer | the ...) 	= [2gram] 0.00018976 [ -3.7218 ]
+	p( had | customer ...) 	= [3gram] 0.00127708 [ -2.89378 ]
+	p( served | had ...) 	= [2gram] 0.000637409 [ -3.19558 ]
+	p( during | served ...) 	= [3gram] 0.00199975 [ -2.69902 ]
+	p( dinner | during ...) 	= [2gram] 0.000148633 [ -3.82788 ]
+	p( <unk> | dinner ...) 	= [1gram] 0.00100375 [ -2.99837 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -44.2198 ppl= 1440.64 ppl1= 2520.7
+
+the head nun explained which friar the temptress had seduced after sunday mass.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( head | the ...) 	= [3gram] 0.000707309 [ -3.15039 ]
+	p( nun | head ...) 	= [2gram] 1.27867e-06 [ -5.89324 ]
+	p( explained | nun ...) 	= [1gram] 3.27255e-05 [ -4.48511 ]
+	p( which | explained ...) 	= [2gram] 0.000315076 [ -3.50159 ]
+	p( friar | which ...) 	= [1gram] 1.88341e-07 [ -6.72505 ]
+	p( the | friar ...) 	= [1gram] 0.00283601 [ -2.54729 ]
+	p( temptress | the ...) 	= [2gram] 3.70922e-07 [ -6.43072 ]
+	p( had | temptress ...) 	= [1gram] 0.000978007 [ -3.00966 ]
+	p( seduced | had ...) 	= [2gram] 3.00277e-06 [ -5.52248 ]
+	p( after | seduced ...) 	= [1gram] 0.000525688 [ -3.27927 ]
+	p( sunday | after ...) 	= [2gram] 0.000316526 [ -3.49959 ]
+	p( mass. | sunday ...) 	= [1gram] 2.98641e-08 [ -7.52485 ]
+	p( </s> | mass. ...) 	= [2gram] 0.417843 [ -0.378987 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -57.1108 ppl= 12004.4 ppl1= 24725.1
+
+the head nun explained which temptress the friar had seduced after sunday mass.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( head | the ...) 	= [3gram] 0.000707309 [ -3.15039 ]
+	p( nun | head ...) 	= [2gram] 1.27867e-06 [ -5.89324 ]
+	p( explained | nun ...) 	= [1gram] 3.27255e-05 [ -4.48511 ]
+	p( which | explained ...) 	= [2gram] 0.000315076 [ -3.50159 ]
+	p( temptress | which ...) 	= [1gram] 4.25177e-08 [ -7.37143 ]
+	p( the | temptress ...) 	= [1gram] 0.00347272 [ -2.45933 ]
+	p( friar | the ...) 	= [2gram] 5.74387e-07 [ -6.2408 ]
+	p( had | friar ...) 	= [2gram] 0.000856233 [ -3.06741 ]
+	p( seduced | had ...) 	= [2gram] 2.98702e-06 [ -5.52476 ]
+	p( after | seduced ...) 	= [1gram] 0.000525688 [ -3.27927 ]
+	p( sunday | after ...) 	= [2gram] 0.000316526 [ -3.49959 ]
+	p( mass. | sunday ...) 	= [1gram] 2.98641e-08 [ -7.52485 ]
+	p( </s> | mass. ...) 	= [2gram] 0.417843 [ -0.378987 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -57.5393 ppl= 12881 ppl1= 26674.8
+
+the housekeeper showed which mouse the cat had killed under the table.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( housekeeper | the ...) 	= [2gram] 1.62825e-06 [ -5.78828 ]
+	p( showed | housekeeper ...) 	= [1gram] 7.96117e-05 [ -4.09902 ]
+	p( which | showed ...) 	= [2gram] 0.000249686 [ -3.60261 ]
+	p( mouse | which ...) 	= [2gram] 1.09552e-05 [ -4.96038 ]
+	p( the | mouse ...) 	= [2gram] 0.00279713 [ -2.55329 ]
+	p( cat | the ...) 	= [2gram] 0.000158477 [ -3.80003 ]
+	p( had | cat ...) 	= [3gram] 0.00801079 [ -2.09632 ]
+	p( killed | had ...) 	= [2gram] 0.000715374 [ -3.14547 ]
+	p( under | killed ...) 	= [2gram] 0.00123082 [ -2.9098 ]
+	p( the | under ...) 	= [3gram] 0.341518 [ -0.466586 ]
+	p( <unk> | the ...) 	= [1gram] 0.000297861 [ -3.52599 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -39.4648 ppl= 1085.81 ppl1= 1944.17
+
+the housekeeper showed which cat the mouse had killed under the table.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( housekeeper | the ...) 	= [2gram] 1.62825e-06 [ -5.78828 ]
+	p( showed | housekeeper ...) 	= [1gram] 7.96117e-05 [ -4.09902 ]
+	p( which | showed ...) 	= [2gram] 0.000249686 [ -3.60261 ]
+	p( cat | which ...) 	= [2gram] 1.50456e-05 [ -4.82259 ]
+	p( the | cat ...) 	= [2gram] 0.00229425 [ -2.63936 ]
+	p( mouse | the ...) 	= [2gram] 8.22883e-05 [ -4.08466 ]
+	p( had | mouse ...) 	= [2gram] 0.00133939 [ -2.87309 ]
+	p( killed | had ...) 	= [2gram] 0.000828717 [ -3.08159 ]
+	p( under | killed ...) 	= [2gram] 0.00123082 [ -2.9098 ]
+	p( the | under ...) 	= [3gram] 0.341518 [ -0.466586 ]
+	p( <unk> | the ...) 	= [1gram] 0.000297861 [ -3.52599 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -40.4106 ppl= 1283.83 ppl1= 2331.05
+
+the nanny knew which housekeeper the billionaire had hired from their conversation.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( nanny | the ...) 	= [3gram] 0.000111561 [ -3.95249 ]
+	p( knew | nanny ...) 	= [1gram] 2.52332e-05 [ -4.59803 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( housekeeper | which ...) 	= [1gram] 5.56333e-07 [ -6.25467 ]
+	p( the | housekeeper ...) 	= [1gram] 0.00244078 [ -2.61247 ]
+	p( billionaire | the ...) 	= [2gram] 1.26473e-05 [ -4.898 ]
+	p( had | billionaire ...) 	= [2gram] 0.00129484 [ -2.88778 ]
+	p( hired | had ...) 	= [2gram] 0.000185517 [ -3.73162 ]
+	p( from | hired ...) 	= [3gram] 0.0093808 [ -2.02776 ]
+	p( their | from ...) 	= [2gram] 0.00757399 [ -2.12068 ]
+	p( <unk> | their ...) 	= [1gram] 0.000744657 [ -3.12804 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -41.5064 ppl= 1558.84 ppl1= 2876.53
+
+the nanny knew which billionaire the housekeeper had hired from their conversation.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( nanny | the ...) 	= [3gram] 0.000111561 [ -3.95249 ]
+	p( knew | nanny ...) 	= [1gram] 2.52332e-05 [ -4.59803 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( billionaire | which ...) 	= [2gram] 2.07776e-06 [ -5.6824 ]
+	p( the | billionaire ...) 	= [2gram] 0.00271904 [ -2.56558 ]
+	p( housekeeper | the ...) 	= [2gram] 4.68428e-06 [ -5.32936 ]
+	p( had | housekeeper ...) 	= [2gram] 0.00258488 [ -2.58756 ]
+	p( hired | had ...) 	= [2gram] 0.000186048 [ -3.73037 ]
+	p( from | hired ...) 	= [3gram] 0.0093808 [ -2.02776 ]
+	p( their | from ...) 	= [2gram] 0.00757399 [ -2.12068 ]
+	p( <unk> | their ...) 	= [1gram] 0.000744657 [ -3.12804 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -41.0172 ppl= 1429.44 ppl1= 2618.77
+
+the researcher learned which whale the biologist had studied in the lab.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( researcher | the ...) 	= [3gram] 1.00034e-05 [ -4.99985 ]
+	p( learned | researcher ...) 	= [1gram] 2.23527e-05 [ -4.65067 ]
+	p( which | learned ...) 	= [2gram] 0.00049083 [ -3.30907 ]
+	p( whale | which ...) 	= [1gram] 3.8018e-06 [ -5.42001 ]
+	p( the | whale ...) 	= [2gram] 0.00190656 [ -2.71975 ]
+	p( biologist | the ...) 	= [2gram] 1.67971e-06 [ -5.77477 ]
+	p( had | biologist ...) 	= [2gram] 0.000649514 [ -3.18741 ]
+	p( studied | had ...) 	= [2gram] 0.000271966 [ -3.56549 ]
+	p( in | studied ...) 	= [3gram] 0.088025 [ -1.05539 ]
+	p( the | in ...) 	= [4gram] 0.200634 [ -0.697596 ]
+	p( lab. | the ...) 	= [1gram] 6.17289e-10 [ -9.20951 ]
+	p( </s> | lab. ...) 	= [2gram] 0.254711 [ -0.593953 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -46.346 ppl= 3673.49 ppl1= 7280.63
+
+the researcher learned which biologist the whale had studied in the lab.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( researcher | the ...) 	= [3gram] 1.00034e-05 [ -4.99985 ]
+	p( learned | researcher ...) 	= [1gram] 2.23527e-05 [ -4.65067 ]
+	p( which | learned ...) 	= [2gram] 0.00049083 [ -3.30907 ]
+	p( biologist | which ...) 	= [1gram] 6.84919e-07 [ -6.16436 ]
+	p( the | biologist ...) 	= [1gram] 0.00253649 [ -2.59577 ]
+	p( whale | the ...) 	= [2gram] 2.27659e-05 [ -4.64271 ]
+	p( had | whale ...) 	= [2gram] 0.00166193 [ -2.77939 ]
+	p( studied | had ...) 	= [2gram] 0.000255113 [ -3.59327 ]
+	p( in | studied ...) 	= [3gram] 0.088025 [ -1.05539 ]
+	p( the | in ...) 	= [4gram] 0.200634 [ -0.697596 ]
+	p( lab. | the ...) 	= [1gram] 6.17289e-10 [ -9.20951 ]
+	p( </s> | lab. ...) 	= [2gram] 0.254711 [ -0.593953 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -45.4541 ppl= 3136.67 ppl1= 6135.38
+
+tracy announced which applicant the administrator had chosen after the interview.
+	p( tracy | <s> ) 	= [2gram] 6.69422e-06 [ -5.1743 ]
+	p( announced | tracy ...) 	= [2gram] 7.73052e-05 [ -4.11179 ]
+	p( which | announced ...) 	= [2gram] 0.000246217 [ -3.60868 ]
+	p( applicant | which ...) 	= [2gram] 1.92329e-06 [ -5.71596 ]
+	p( the | applicant ...) 	= [2gram] 0.00404917 [ -2.39263 ]
+	p( administrator | the ...) 	= [2gram] 6.61027e-05 [ -4.17978 ]
+	p( had | administrator ...) 	= [2gram] 0.0055463 [ -2.256 ]
+	p( chosen | had ...) 	= [2gram] 0.000537995 [ -3.26922 ]
+	p( after | chosen ...) 	= [2gram] 0.00176442 [ -2.7534 ]
+	p( the | after ...) 	= [3gram] 0.116674 [ -0.933026 ]
+	p( <unk> | the ...) 	= [1gram] 0.000390638 [ -3.40823 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -39.1575 ppl= 1832.84 ppl1= 3628.87
+
+tracy announced which administrator the applicant had chosen after the interview.
+	p( tracy | <s> ) 	= [2gram] 6.69422e-06 [ -5.1743 ]
+	p( announced | tracy ...) 	= [2gram] 7.73052e-05 [ -4.11179 ]
+	p( which | announced ...) 	= [2gram] 0.000246217 [ -3.60868 ]
+	p( administrator | which ...) 	= [1gram] 4.09388e-06 [ -5.38787 ]
+	p( the | administrator ...) 	= [2gram] 0.00288491 [ -2.53987 ]
+	p( applicant | the ...) 	= [2gram] 7.47814e-05 [ -4.12621 ]
+	p( had | applicant ...) 	= [3gram] 0.00712415 [ -2.14727 ]
+	p( chosen | had ...) 	= [2gram] 0.00053334 [ -3.273 ]
+	p( after | chosen ...) 	= [2gram] 0.00176442 [ -2.7534 ]
+	p( the | after ...) 	= [3gram] 0.116674 [ -0.933026 ]
+	p( <unk> | the ...) 	= [1gram] 0.000390638 [ -3.40823 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -38.8181 ppl= 1717.28 ppl1= 3380.01
+
+the birthday boy saw which friend the clown had scared at the party.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( birthday | the ...) 	= [3gram] 1.8073e-05 [ -4.74297 ]
+	p( boy | birthday ...) 	= [3gram] 0.0197236 [ -1.70501 ]
+	p( saw | boy ...) 	= [2gram] 0.000178196 [ -3.7491 ]
+	p( which | saw ...) 	= [2gram] 0.000355871 [ -3.44871 ]
+	p( friend | which ...) 	= [2gram] 1.71096e-05 [ -4.76676 ]
+	p( the | friend ...) 	= [2gram] 0.00655935 [ -2.18314 ]
+	p( clown | the ...) 	= [2gram] 1.75686e-05 [ -4.75526 ]
+	p( had | clown ...) 	= [2gram] 0.000909045 [ -3.04141 ]
+	p( scared | had ...) 	= [2gram] 1.87158e-05 [ -4.72779 ]
+	p( at | scared ...) 	= [2gram] 0.00712737 [ -2.14707 ]
+	p( the | at ...) 	= [3gram] 0.372994 [ -0.428298 ]
+	p( <unk> | the ...) 	= [1gram] 0.000201944 [ -3.69477 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -41.9073 ppl= 984.874 ppl1= 1673.56
+
+the birthday boy saw which clown the friend had scared at the party.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( birthday | the ...) 	= [3gram] 1.8073e-05 [ -4.74297 ]
+	p( boy | birthday ...) 	= [3gram] 0.0197236 [ -1.70501 ]
+	p( saw | boy ...) 	= [2gram] 0.000178196 [ -3.7491 ]
+	p( which | saw ...) 	= [2gram] 0.000355871 [ -3.44871 ]
+	p( clown | which ...) 	= [2gram] 3.30327e-06 [ -5.48106 ]
+	p( the | clown ...) 	= [2gram] 0.00301044 [ -2.52137 ]
+	p( friend | the ...) 	= [2gram] 5.18385e-05 [ -4.28535 ]
+	p( had | friend ...) 	= [3gram] 0.00589552 [ -2.22948 ]
+	p( scared | had ...) 	= [2gram] 1.52e-05 [ -4.81816 ]
+	p( at | scared ...) 	= [2gram] 0.00712737 [ -2.14707 ]
+	p( the | at ...) 	= [3gram] 0.372994 [ -0.428298 ]
+	p( <unk> | the ...) 	= [1gram] 0.000201944 [ -3.69477 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -41.7684 ppl= 962.62 ppl1= 1632.87
+
+the columnist publicized which photographer the celebrity had punched in the nose.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( columnist | the ...) 	= [3gram] 2.17694e-06 [ -5.66215 ]
+	p( publicized | columnist ...) 	= [1gram] 4.14171e-06 [ -5.38282 ]
+	p( which | publicized ...) 	= [1gram] 0.000508685 [ -3.29355 ]
+	p( photographer | which ...) 	= [1gram] 2.54939e-06 [ -5.59356 ]
+	p( the | photographer ...) 	= [2gram] 0.00265203 [ -2.57642 ]
+	p( celebrity | the ...) 	= [2gram] 2.66344e-05 [ -4.57456 ]
+	p( had | celebrity ...) 	= [2gram] 0.000889037 [ -3.05108 ]
+	p( punched | had ...) 	= [2gram] 2.75218e-05 [ -4.56032 ]
+	p( in | punched ...) 	= [3gram] 0.0944124 [ -1.02497 ]
+	p( the | in ...) 	= [4gram] 0.450886 [ -0.345933 ]
+	p( <unk> | the ...) 	= [1gram] 0.000135269 [ -3.8688 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -42.4512 ppl= 1842.8 ppl1= 3448.26
+
+the columnist publicized which celebrity the photographer had punched in the nose.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( columnist | the ...) 	= [3gram] 2.17694e-06 [ -5.66215 ]
+	p( publicized | columnist ...) 	= [1gram] 4.14171e-06 [ -5.38282 ]
+	p( which | publicized ...) 	= [1gram] 0.000508685 [ -3.29355 ]
+	p( celebrity | which ...) 	= [2gram] 2.56964e-05 [ -4.59013 ]
+	p( the | celebrity ...) 	= [2gram] 0.00221147 [ -2.65532 ]
+	p( photographer | the ...) 	= [2gram] 2.85697e-05 [ -4.54409 ]
+	p( had | photographer ...) 	= [2gram] 0.00342239 [ -2.46567 ]
+	p( punched | had ...) 	= [2gram] 2.36445e-05 [ -4.62627 ]
+	p( in | punched ...) 	= [3gram] 0.0944124 [ -1.02497 ]
+	p( the | in ...) 	= [4gram] 0.450886 [ -0.345933 ]
+	p( <unk> | the ...) 	= [1gram] 0.000135269 [ -3.8688 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -40.9767 ppl= 1419.24 ppl1= 2598.53
+
+the documentarian showed which piglets the agriculturalist had raised at the farm.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( documentarian | the ...) 	= [2gram] 9.87548e-09 [ -8.00544 ]
+	p( showed | documentarian ...) 	= [1gram] 0.000120998 [ -3.91722 ]
+	p( which | showed ...) 	= [2gram] 0.000249686 [ -3.60261 ]
+	p( piglets | which ...) 	= [1gram] 2.26529e-07 [ -6.64488 ]
+	p( the | piglets ...) 	= [1gram] 0.00279318 [ -2.5539 ]
+	p( agriculturalist | the ...) 	= [1gram] 8.20622e-08 [ -7.08586 ]
+	p( had | agriculturalist ...) 	= [1gram] 0.000996933 [ -3.00133 ]
+	p( raised | had ...) 	= [2gram] 0.000901957 [ -3.04481 ]
+	p( at | raised ...) 	= [3gram] 0.00466513 [ -2.33114 ]
+	p( the | at ...) 	= [3gram] 0.313877 [ -0.503241 ]
+	p( <unk> | the ...) 	= [1gram] 0.000205114 [ -3.68801 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -46.8955 ppl= 4048.96 ppl1= 8090.13
+
+the documentarian showed which agriculturalist the piglets had raised at the farm.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( documentarian | the ...) 	= [2gram] 9.87548e-09 [ -8.00544 ]
+	p( showed | documentarian ...) 	= [1gram] 0.000120998 [ -3.91722 ]
+	p( which | showed ...) 	= [2gram] 0.000249686 [ -3.60261 ]
+	p( agriculturalist | which ...) 	= [1gram] 1.02042e-07 [ -6.99122 ]
+	p( the | agriculturalist ...) 	= [1gram] 0.00353992 [ -2.45101 ]
+	p( piglets | the ...) 	= [2gram] 8.3467e-07 [ -6.07849 ]
+	p( had | piglets ...) 	= [2gram] 0.00142414 [ -2.84645 ]
+	p( raised | had ...) 	= [2gram] 0.000882392 [ -3.05434 ]
+	p( at | raised ...) 	= [3gram] 0.00466513 [ -2.33114 ]
+	p( the | at ...) 	= [3gram] 0.313877 [ -0.503241 ]
+	p( <unk> | the ...) 	= [1gram] 0.000205114 [ -3.68801 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -45.9862 ppl= 3446.66 ppl1= 6794.88
+
+the police officer noted which jeweler the burglar had robbed on his spree.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( police | the ...) 	= [3gram] 0.00236304 [ -2.62653 ]
+	p( officer | police ...) 	= [4gram] 0.0149681 [ -1.82483 ]
+	p( noted | officer ...) 	= [2gram] 0.000161274 [ -3.79244 ]
+	p( which | noted ...) 	= [2gram] 0.000233923 [ -3.63093 ]
+	p( jeweler | which ...) 	= [1gram] 1.96861e-07 [ -6.70584 ]
+	p( the | jeweler ...) 	= [2gram] 0.00308923 [ -2.51015 ]
+	p( burglar | the ...) 	= [2gram] 8.84744e-06 [ -5.05318 ]
+	p( had | burglar ...) 	= [2gram] 0.0036071 [ -2.44284 ]
+	p( robbed | had ...) 	= [2gram] 5.63718e-05 [ -4.24894 ]
+	p( on | robbed ...) 	= [2gram] 0.00723986 [ -2.14027 ]
+	p( his | on ...) 	= [2gram] 0.00749932 [ -2.12498 ]
+	p( <unk> | his ...) 	= [1gram] 0.000598975 [ -3.22259 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -42.8405 ppl= 1148.26 ppl1= 1974.36
+
+the police officer noted which burglar the jeweler had robbed on his spree.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( police | the ...) 	= [3gram] 0.00236304 [ -2.62653 ]
+	p( officer | police ...) 	= [4gram] 0.0149681 [ -1.82483 ]
+	p( noted | officer ...) 	= [2gram] 0.000161274 [ -3.79244 ]
+	p( which | noted ...) 	= [2gram] 0.000233923 [ -3.63093 ]
+	p( burglar | which ...) 	= [1gram] 5.85275e-07 [ -6.23264 ]
+	p( the | burglar ...) 	= [2gram] 0.00343136 [ -2.46453 ]
+	p( jeweler | the ...) 	= [2gram] 1.18523e-06 [ -5.9262 ]
+	p( had | jeweler ...) 	= [2gram] 0.00392897 [ -2.40572 ]
+	p( robbed | had ...) 	= [2gram] 5.56927e-05 [ -4.2542 ]
+	p( on | robbed ...) 	= [2gram] 0.00723986 [ -2.14027 ]
+	p( his | on ...) 	= [2gram] 0.00749932 [ -2.12498 ]
+	p( <unk> | his ...) 	= [1gram] 0.000598975 [ -3.22259 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.1629 ppl= 1210.77 ppl1= 2090.37
+
+the royal cook asked which lord the chef had served for twenty years.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( royal | the ...) 	= [3gram] 0.000267777 [ -3.57223 ]
+	p( cook | royal ...) 	= [1gram] 9.30261e-06 [ -5.03139 ]
+	p( asked | cook ...) 	= [2gram] 0.000102318 [ -3.99005 ]
+	p( which | asked ...) 	= [2gram] 0.00299354 [ -2.52381 ]
+	p( lord | which ...) 	= [2gram] 2.44304e-05 [ -4.61207 ]
+	p( the | lord ...) 	= [2gram] 0.0024576 [ -2.60949 ]
+	p( chef | the ...) 	= [2gram] 2.06415e-05 [ -4.68526 ]
+	p( had | chef ...) 	= [2gram] 0.00154893 [ -2.80997 ]
+	p( served | had ...) 	= [2gram] 0.000664569 [ -3.17746 ]
+	p( for | served ...) 	= [3gram] 0.018884 [ -1.72391 ]
+	p( twenty | for ...) 	= [2gram] 5.18123e-05 [ -4.28557 ]
+	p( <unk> | twenty ...) 	= [1gram] 0.000761226 [ -3.11849 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -44.6567 ppl= 1547.98 ppl1= 2723.53
+
+the royal cook asked which chef the lord had served for twenty years.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( royal | the ...) 	= [3gram] 0.000267777 [ -3.57223 ]
+	p( cook | royal ...) 	= [1gram] 9.30261e-06 [ -5.03139 ]
+	p( asked | cook ...) 	= [2gram] 0.000102318 [ -3.99005 ]
+	p( which | asked ...) 	= [2gram] 0.00299354 [ -2.52381 ]
+	p( chef | which ...) 	= [2gram] 1.49801e-06 [ -5.82449 ]
+	p( the | chef ...) 	= [2gram] 0.00261562 [ -2.58243 ]
+	p( lord | the ...) 	= [2gram] 0.000159096 [ -3.79834 ]
+	p( had | lord ...) 	= [3gram] 0.00255734 [ -2.59221 ]
+	p( served | had ...) 	= [2gram] 0.000638526 [ -3.19482 ]
+	p( for | served ...) 	= [3gram] 0.018884 [ -1.72391 ]
+	p( twenty | for ...) 	= [2gram] 5.18123e-05 [ -4.28557 ]
+	p( <unk> | twenty ...) 	= [1gram] 0.000761226 [ -3.11849 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -44.7548 ppl= 1573.15 ppl1= 2771.24
+
+the trapeze artist indicated which lion the trainer had tamed for the circus.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( trapeze | the ...) 	= [2gram] 1.37297e-07 [ -6.86234 ]
+	p( artist | trapeze ...) 	= [2gram] 0.135086 [ -0.869389 ]
+	p( indicated | artist ...) 	= [1gram] 3.18766e-05 [ -4.49653 ]
+	p( which | indicated ...) 	= [2gram] 0.000768198 [ -3.11453 ]
+	p( lion | which ...) 	= [1gram] 4.09675e-06 [ -5.38756 ]
+	p( the | lion ...) 	= [2gram] 0.00283151 [ -2.54798 ]
+	p( trainer | the ...) 	= [2gram] 1.18666e-05 [ -4.92567 ]
+	p( had | trainer ...) 	= [2gram] 0.00130154 [ -2.88554 ]
+	p( tamed | had ...) 	= [2gram] 1.76959e-06 [ -5.75213 ]
+	p( for | tamed ...) 	= [2gram] 0.00387171 [ -2.4121 ]
+	p( the | for ...) 	= [3gram] 0.0991281 [ -1.0038 ]
+	p( <unk> | the ...) 	= [1gram] 0.00034528 [ -3.46183 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -46.2364 ppl= 2007.25 ppl1= 3602.87
+
+the trapeze artist indicated which trainer the lion had tamed for the circus.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( trapeze | the ...) 	= [2gram] 1.37297e-07 [ -6.86234 ]
+	p( artist | trapeze ...) 	= [2gram] 0.135086 [ -0.869389 ]
+	p( indicated | artist ...) 	= [1gram] 3.18766e-05 [ -4.49653 ]
+	p( which | indicated ...) 	= [2gram] 0.000768198 [ -3.11453 ]
+	p( trainer | which ...) 	= [2gram] 2.07094e-06 [ -5.68383 ]
+	p( the | trainer ...) 	= [2gram] 0.00303499 [ -2.51784 ]
+	p( lion | the ...) 	= [2gram] 0.000105911 [ -3.97506 ]
+	p( had | lion ...) 	= [2gram] 0.00106839 [ -2.97127 ]
+	p( tamed | had ...) 	= [2gram] 1.6991e-06 [ -5.76978 ]
+	p( for | tamed ...) 	= [2gram] 0.00387171 [ -2.4121 ]
+	p( the | for ...) 	= [3gram] 0.0991281 [ -1.0038 ]
+	p( <unk> | the ...) 	= [1gram] 0.00034528 [ -3.46183 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -45.6553 ppl= 1824.29 ppl1= 3250.49
+
+the wildlife curator mentioned which ape the zookeeper had fed some fresh fruit.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( wildlife | the ...) 	= [3gram] 9.91357e-06 [ -5.00377 ]
+	p( curator | wildlife ...) 	= [1gram] 1.36745e-06 [ -5.86409 ]
+	p( mentioned | curator ...) 	= [1gram] 6.57258e-05 [ -4.18226 ]
+	p( which | mentioned ...) 	= [2gram] 0.000563621 [ -3.24901 ]
+	p( ape | which ...) 	= [1gram] 1.1379e-06 [ -5.9439 ]
+	p( the | ape ...) 	= [2gram] 0.0153208 [ -1.81472 ]
+	p( zookeeper | the ...) 	= [2gram] 4.8295e-07 [ -6.3161 ]
+	p( had | zookeeper ...) 	= [2gram] 0.00160181 [ -2.79539 ]
+	p( fed | had ...) 	= [2gram] 3.22922e-05 [ -4.4909 ]
+	p( some | fed ...) 	= [2gram] 0.0022259 [ -2.65249 ]
+	p( fresh | some ...) 	= [2gram] 0.000483819 [ -3.31532 ]
+	p( <unk> | fresh ...) 	= [1gram] 0.00145379 [ -2.8375 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -50.9825 ppl= 4381.33 ppl1= 8350.82
+
+the wildlife curator mentioned which zookeeper the ape had fed some fresh fruit.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( wildlife | the ...) 	= [3gram] 9.91357e-06 [ -5.00377 ]
+	p( curator | wildlife ...) 	= [1gram] 1.36745e-06 [ -5.86409 ]
+	p( mentioned | curator ...) 	= [1gram] 6.57258e-05 [ -4.18226 ]
+	p( which | mentioned ...) 	= [2gram] 0.000563621 [ -3.24901 ]
+	p( zookeeper | which ...) 	= [1gram] 4.32057e-08 [ -7.36446 ]
+	p( the | zookeeper ...) 	= [1gram] 0.00369553 [ -2.43232 ]
+	p( ape | the ...) 	= [2gram] 4.56174e-06 [ -5.34087 ]
+	p( had | ape ...) 	= [2gram] 0.000674266 [ -3.17117 ]
+	p( fed | had ...) 	= [2gram] 3.15067e-05 [ -4.5016 ]
+	p( some | fed ...) 	= [2gram] 0.0022259 [ -2.65249 ]
+	p( fresh | some ...) 	= [2gram] 0.000483819 [ -3.31532 ]
+	p( <unk> | fresh ...) 	= [1gram] 0.00145379 [ -2.8375 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -52.4319 ppl= 5560.77 ppl1= 10795
+
+the aid worker realized which refugees the philanthropist had helped to escape starvation.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( aid | the ...) 	= [3gram] 6.11289e-05 [ -4.21375 ]
+	p( worker | aid ...) 	= [4gram] 0.00386873 [ -2.41243 ]
+	p( realized | worker ...) 	= [2gram] 1.07761e-05 [ -4.96754 ]
+	p( which | realized ...) 	= [2gram] 0.000255821 [ -3.59206 ]
+	p( refugees | which ...) 	= [2gram] 3.6638e-05 [ -4.43607 ]
+	p( the | refugees ...) 	= [2gram] 0.00337056 [ -2.4723 ]
+	p( philanthropist | the ...) 	= [2gram] 1.16467e-06 [ -5.9338 ]
+	p( had | philanthropist ...) 	= [2gram] 0.000845205 [ -3.07304 ]
+	p( helped | had ...) 	= [2gram] 0.00138236 [ -2.85938 ]
+	p( to | helped ...) 	= [3gram] 0.152251 [ -0.817438 ]
+	p( escape | to ...) 	= [3gram] 0.000339555 [ -3.46909 ]
+	p( <unk> | escape ...) 	= [1gram] 0.00100739 [ -2.9968 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.7607 ppl= 1335.88 ppl1= 2323.86
+
+the aid worker realized which philanthropist the refugees had helped to escape starvation.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( aid | the ...) 	= [3gram] 6.11289e-05 [ -4.21375 ]
+	p( worker | aid ...) 	= [4gram] 0.00386873 [ -2.41243 ]
+	p( realized | worker ...) 	= [2gram] 1.07761e-05 [ -4.96754 ]
+	p( which | realized ...) 	= [2gram] 0.000255821 [ -3.59206 ]
+	p( philanthropist | which ...) 	= [1gram] 6.26615e-07 [ -6.203 ]
+	p( the | philanthropist ...) 	= [2gram] 0.00247923 [ -2.60568 ]
+	p( refugees | the ...) 	= [2gram] 8.13033e-05 [ -4.08989 ]
+	p( had | refugees ...) 	= [3gram] 0.0155895 [ -1.80717 ]
+	p( helped | had ...) 	= [2gram] 0.00108028 [ -2.96646 ]
+	p( to | helped ...) 	= [3gram] 0.152251 [ -0.817438 ]
+	p( escape | to ...) 	= [3gram] 0.000339555 [ -3.46909 ]
+	p( <unk> | escape ...) 	= [1gram] 0.00100739 [ -2.9968 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -42.6584 ppl= 1114.36 ppl1= 1911.67
+
+the camper reported which girl the bear had mauled in the forest.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( camper | the ...) 	= [2gram] 1.2315e-06 [ -5.90956 ]
+	p( reported | camper ...) 	= [1gram] 8.50717e-05 [ -4.07021 ]
+	p( which | reported ...) 	= [2gram] 0.000261033 [ -3.5833 ]
+	p( girl | which ...) 	= [2gram] 9.2599e-05 [ -4.03339 ]
+	p( the | girl ...) 	= [2gram] 0.00323089 [ -2.49068 ]
+	p( bear | the ...) 	= [2gram] 0.000103107 [ -3.98671 ]
+	p( had | bear ...) 	= [3gram] 0.00218909 [ -2.65974 ]
+	p( mauled | had ...) 	= [3gram] 0.00189358 [ -2.72272 ]
+	p( in | mauled ...) 	= [2gram] 0.0341853 [ -1.46616 ]
+	p( the | in ...) 	= [3gram] 0.253631 [ -0.595798 ]
+	p( <unk> | the ...) 	= [1gram] 0.000209586 [ -3.67864 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -37.7139 ppl= 796.293 ppl1= 1389.41
+
+the camper reported which bear the girl had mauled in the forest.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( camper | the ...) 	= [2gram] 1.2315e-06 [ -5.90956 ]
+	p( reported | camper ...) 	= [1gram] 8.50717e-05 [ -4.07021 ]
+	p( which | reported ...) 	= [2gram] 0.000261033 [ -3.5833 ]
+	p( bear | which ...) 	= [2gram] 0.000122538 [ -3.91173 ]
+	p( the | bear ...) 	= [3gram] 0.199704 [ -0.699614 ]
+	p( girl | the ...) 	= [2gram] 0.000206491 [ -3.6851 ]
+	p( had | girl ...) 	= [3gram] 0.0143085 [ -1.84441 ]
+	p( mauled | had ...) 	= [2gram] 1.78209e-06 [ -5.74907 ]
+	p( in | mauled ...) 	= [2gram] 0.0341853 [ -1.46616 ]
+	p( the | in ...) 	= [3gram] 0.253631 [ -0.595798 ]
+	p( <unk> | the ...) 	= [1gram] 0.000209586 [ -3.67864 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -37.7106 ppl= 795.825 ppl1= 1388.52
+
+the dance instructor noticed which onlookers the performers had impressed in the audience.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( dance | the ...) 	= [3gram] 3.01317e-05 [ -4.52098 ]
+	p( instructor | dance ...) 	= [2gram] 0.000885519 [ -3.0528 ]
+	p( noticed | instructor ...) 	= [2gram] 3.80814e-05 [ -4.41929 ]
+	p( which | noticed ...) 	= [2gram] 0.000376695 [ -3.42401 ]
+	p( onlookers | which ...) 	= [2gram] 1.53057e-06 [ -5.81515 ]
+	p( the | onlookers ...) 	= [2gram] 0.00374751 [ -2.42626 ]
+	p( performers | the ...) 	= [2gram] 1.54655e-05 [ -4.81064 ]
+	p( had | performers ...) 	= [2gram] 0.0023019 [ -2.63791 ]
+	p( impressed | had ...) 	= [2gram] 3.62512e-05 [ -4.44068 ]
+	p( in | impressed ...) 	= [3gram] 0.018516 [ -1.73245 ]
+	p( the | in ...) 	= [3gram] 0.24205 [ -0.616094 ]
+	p( <unk> | the ...) 	= [1gram] 0.000187489 [ -3.72703 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -44.1403 ppl= 1421.93 ppl1= 2485.47
+
+the dance instructor noticed which performers the onlookers had impressed in the audience.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( dance | the ...) 	= [3gram] 3.01317e-05 [ -4.52098 ]
+	p( instructor | dance ...) 	= [2gram] 0.000885519 [ -3.0528 ]
+	p( noticed | instructor ...) 	= [2gram] 3.80814e-05 [ -4.41929 ]
+	p( which | noticed ...) 	= [2gram] 0.000376695 [ -3.42401 ]
+	p( performers | which ...) 	= [2gram] 3.71944e-06 [ -5.42952 ]
+	p( the | performers ...) 	= [2gram] 0.0024532 [ -2.61027 ]
+	p( onlookers | the ...) 	= [2gram] 1.42044e-05 [ -4.84758 ]
+	p( had | onlookers ...) 	= [2gram] 0.00464684 [ -2.33284 ]
+	p( impressed | had ...) 	= [2gram] 3.67917e-05 [ -4.43425 ]
+	p( in | impressed ...) 	= [3gram] 0.018516 [ -1.73245 ]
+	p( the | in ...) 	= [3gram] 0.24205 [ -0.616094 ]
+	p( <unk> | the ...) 	= [1gram] 0.000187489 [ -3.72703 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.6641 ppl= 1314.82 ppl1= 2284.44
+
+the high schooler heard which geek the jock had bullied in the hall.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( high | the ...) 	= [3gram] 0.000853851 [ -3.06862 ]
+	p( schooler | high ...) 	= [2gram] 7.9006e-05 [ -4.10234 ]
+	p( heard | schooler ...) 	= [1gram] 5.01074e-05 [ -4.3001 ]
+	p( which | heard ...) 	= [2gram] 0.000331281 [ -3.4798 ]
+	p( geek | which ...) 	= [2gram] 7.01631e-07 [ -6.15389 ]
+	p( the | geek ...) 	= [2gram] 0.00251854 [ -2.59885 ]
+	p( jock | the ...) 	= [2gram] 1.05055e-06 [ -5.97858 ]
+	p( had | jock ...) 	= [2gram] 0.000817154 [ -3.0877 ]
+	p( bullied | had ...) 	= [2gram] 1.16674e-05 [ -4.93303 ]
+	p( in | bullied ...) 	= [2gram] 0.0234983 [ -1.62896 ]
+	p( the | in ...) 	= [3gram] 0.162158 [ -0.790062 ]
+	p( <unk> | the ...) 	= [1gram] 0.000195137 [ -3.70966 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -46.3486 ppl= 2044.64 ppl1= 3675.18
+
+the high schooler heard which jock the geek had bullied in the hall.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( high | the ...) 	= [3gram] 0.000853851 [ -3.06862 ]
+	p( schooler | high ...) 	= [2gram] 7.9006e-05 [ -4.10234 ]
+	p( heard | schooler ...) 	= [1gram] 5.01074e-05 [ -4.3001 ]
+	p( which | heard ...) 	= [2gram] 0.000331281 [ -3.4798 ]
+	p( jock | which ...) 	= [1gram] 3.99304e-07 [ -6.3987 ]
+	p( the | jock ...) 	= [2gram] 0.00348941 [ -2.45725 ]
+	p( geek | the ...) 	= [2gram] 3.51477e-06 [ -5.4541 ]
+	p( had | geek ...) 	= [2gram] 0.00061939 [ -3.20804 ]
+	p( bullied | had ...) 	= [2gram] 1.16128e-05 [ -4.93506 ]
+	p( in | bullied ...) 	= [2gram] 0.0234983 [ -1.62896 ]
+	p( the | in ...) 	= [3gram] 0.162158 [ -0.790062 ]
+	p( <unk> | the ...) 	= [1gram] 0.000195137 [ -3.70966 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -46.0497 ppl= 1946.55 ppl1= 3485.67
+
+the parent saw which child the lifeguard had rescued from the pool.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( parent | the ...) 	= [3gram] 6.40239e-05 [ -4.19366 ]
+	p( saw | parent ...) 	= [2gram] 5.80025e-05 [ -4.23655 ]
+	p( which | saw ...) 	= [2gram] 0.000384507 [ -3.4151 ]
+	p( child | which ...) 	= [2gram] 5.52972e-05 [ -4.2573 ]
+	p( the | child ...) 	= [2gram] 0.00249762 [ -2.60247 ]
+	p( lifeguard | the ...) 	= [2gram] 3.48364e-06 [ -5.45797 ]
+	p( had | lifeguard ...) 	= [2gram] 0.00096424 [ -3.01581 ]
+	p( rescued | had ...) 	= [2gram] 4.86531e-05 [ -4.31289 ]
+	p( from | rescued ...) 	= [3gram] 0.0593267 [ -1.22675 ]
+	p( the | from ...) 	= [4gram] 0.266145 [ -0.574881 ]
+	p( <unk> | the ...) 	= [1gram] 0.000330675 [ -3.4806 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -39.291 ppl= 1052.9 ppl1= 1880.4
+
+the parent saw which lifeguard the child had rescued from the pool.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( parent | the ...) 	= [3gram] 6.40239e-05 [ -4.19366 ]
+	p( saw | parent ...) 	= [2gram] 5.80025e-05 [ -4.23655 ]
+	p( which | saw ...) 	= [2gram] 0.000384507 [ -3.4151 ]
+	p( lifeguard | which ...) 	= [1gram] 4.42071e-07 [ -6.35451 ]
+	p( the | lifeguard ...) 	= [1gram] 0.00264191 [ -2.57808 ]
+	p( child | the ...) 	= [2gram] 0.000804583 [ -3.09443 ]
+	p( had | child ...) 	= [3gram] 0.00823527 [ -2.08432 ]
+	p( rescued | had ...) 	= [2gram] 3.89191e-05 [ -4.40984 ]
+	p( from | rescued ...) 	= [3gram] 0.0593267 [ -1.22675 ]
+	p( the | from ...) 	= [4gram] 0.266145 [ -0.574881 ]
+	p( <unk> | the ...) 	= [1gram] 0.000330675 [ -3.4806 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -38.1657 ppl= 862.634 ppl1= 1515.23
+
+the ringmaster recognized which cheetah the tamer had trained three years ago.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( <unk> | the ...) 	= [1gram] 0.000337654 [ -3.47153 ]
+	p( recognized | <unk> ...) 	= [1gram] 6.51666e-05 [ -4.18598 ]
+	p( which | recognized ...) 	= [2gram] 0.00027376 [ -3.56263 ]
+	p( cheetah | which ...) 	= [1gram] 5.72093e-07 [ -6.24253 ]
+	p( the | cheetah ...) 	= [2gram] 0.00612821 [ -2.21267 ]
+	p( tamer | the ...) 	= [2gram] 3.0505e-07 [ -6.51563 ]
+	p( had | tamer ...) 	= [1gram] 0.000970917 [ -3.01282 ]
+	p( trained | had ...) 	= [2gram] 0.000177987 [ -3.74961 ]
+	p( three | trained ...) 	= [2gram] 0.000432028 [ -3.36449 ]
+	p( years | three ...) 	= [3gram] 0.0616335 [ -1.21018 ]
+	p( <unk> | years ...) 	= [1gram] 0.000233165 [ -3.63234 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -43.6774 ppl= 2289.83 ppl1= 4363.01
+
+the ringmaster recognized which tamer the cheetah had trained three years ago.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( <unk> | the ...) 	= [1gram] 0.000337654 [ -3.47153 ]
+	p( recognized | <unk> ...) 	= [1gram] 6.51666e-05 [ -4.18598 ]
+	p( which | recognized ...) 	= [2gram] 0.00027376 [ -3.56263 ]
+	p( tamer | which ...) 	= [1gram] 1.58333e-07 [ -6.80043 ]
+	p( the | tamer ...) 	= [1gram] 0.00344754 [ -2.46249 ]
+	p( cheetah | the ...) 	= [2gram] 2.79476e-06 [ -5.55366 ]
+	p( had | cheetah ...) 	= [2gram] 0.00161431 [ -2.79201 ]
+	p( trained | had ...) 	= [2gram] 0.000176882 [ -3.75232 ]
+	p( three | trained ...) 	= [2gram] 0.000432028 [ -3.36449 ]
+	p( years | three ...) 	= [3gram] 0.0616335 [ -1.21018 ]
+	p( <unk> | years ...) 	= [1gram] 0.000233165 [ -3.63234 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -43.3051 ppl= 2143.68 ppl1= 4062.16
+
+the travel agent recorded which innkeeper the guests had liked in his notebook.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( travel | the ...) 	= [3gram] 7.847e-05 [ -4.1053 ]
+	p( agent | travel ...) 	= [3gram] 0.0394625 [ -1.40382 ]
+	p( recorded | agent ...) 	= [2gram] 6.17663e-05 [ -4.20925 ]
+	p( which | recorded ...) 	= [2gram] 0.000405981 [ -3.39149 ]
+	p( innkeeper | which ...) 	= [1gram] 2.72629e-08 [ -7.56443 ]
+	p( the | innkeeper ...) 	= [1gram] 0.00382257 [ -2.41764 ]
+	p( guests | the ...) 	= [2gram] 8.34661e-05 [ -4.07849 ]
+	p( had | guests ...) 	= [3gram] 0.0064776 [ -2.18859 ]
+	p( liked | had ...) 	= [2gram] 1.71377e-05 [ -4.76605 ]
+	p( in | liked ...) 	= [2gram] 0.00822577 [ -2.08482 ]
+	p( his | in ...) 	= [3gram] 0.0120324 [ -1.91965 ]
+	p( <unk> | his ...) 	= [1gram] 0.000594119 [ -3.22613 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.8727 ppl= 1360.7 ppl1= 2370.4
+
+the travel agent recorded which guests the innkeeper had liked in his notebook.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( travel | the ...) 	= [3gram] 7.847e-05 [ -4.1053 ]
+	p( agent | travel ...) 	= [3gram] 0.0394625 [ -1.40382 ]
+	p( recorded | agent ...) 	= [2gram] 6.17663e-05 [ -4.20925 ]
+	p( which | recorded ...) 	= [2gram] 0.000405981 [ -3.39149 ]
+	p( guests | which ...) 	= [2gram] 1.15557e-05 [ -4.9372 ]
+	p( the | guests ...) 	= [2gram] 0.00430915 [ -2.36561 ]
+	p( innkeeper | the ...) 	= [2gram] 7.55801e-07 [ -6.12159 ]
+	p( had | innkeeper ...) 	= [1gram] 0.00107654 [ -2.96797 ]
+	p( liked | had ...) 	= [2gram] 2.15156e-05 [ -4.66725 ]
+	p( in | liked ...) 	= [2gram] 0.00822577 [ -2.08482 ]
+	p( his | in ...) 	= [3gram] 0.0120324 [ -1.91965 ]
+	p( <unk> | his ...) 	= [1gram] 0.000594119 [ -3.22613 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.9171 ppl= 1370.68 ppl1= 2389.12
+
+the bird watcher saw which photographer the hawk had attacked in the woods.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( bird | the ...) 	= [3gram] 0.000100169 [ -3.99926 ]
+	p( watcher | bird ...) 	= [2gram] 0.000653341 [ -3.18486 ]
+	p( saw | watcher ...) 	= [1gram] 6.25917e-05 [ -4.20348 ]
+	p( which | saw ...) 	= [2gram] 0.000384507 [ -3.4151 ]
+	p( photographer | which ...) 	= [1gram] 2.2874e-06 [ -5.64066 ]
+	p( the | photographer ...) 	= [2gram] 0.00265203 [ -2.57642 ]
+	p( hawk | the ...) 	= [2gram] 8.50974e-06 [ -5.07008 ]
+	p( had | hawk ...) 	= [2gram] 0.00166196 [ -2.77938 ]
+	p( attacked | had ...) 	= [2gram] 0.000343321 [ -3.4643 ]
+	p( in | attacked ...) 	= [3gram] 0.0122762 [ -1.91094 ]
+	p( the | in ...) 	= [4gram] 0.184012 [ -0.735154 ]
+	p( <unk> | the ...) 	= [1gram] 0.000181023 [ -3.74227 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.2389 ppl= 1226.01 ppl1= 2118.71
+
+the bird watcher saw which hawk the photographer had attacked in the woods.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( bird | the ...) 	= [3gram] 0.000100169 [ -3.99926 ]
+	p( watcher | bird ...) 	= [2gram] 0.000653341 [ -3.18486 ]
+	p( saw | watcher ...) 	= [1gram] 6.25917e-05 [ -4.20348 ]
+	p( which | saw ...) 	= [2gram] 0.000384507 [ -3.4151 ]
+	p( hawk | which ...) 	= [1gram] 2.72232e-06 [ -5.56506 ]
+	p( the | hawk ...) 	= [2gram] 0.00395366 [ -2.403 ]
+	p( photographer | the ...) 	= [2gram] 2.60523e-05 [ -4.58415 ]
+	p( had | photographer ...) 	= [2gram] 0.00342239 [ -2.46567 ]
+	p( attacked | had ...) 	= [2gram] 0.000292103 [ -3.53446 ]
+	p( in | attacked ...) 	= [3gram] 0.0122762 [ -1.91094 ]
+	p( the | in ...) 	= [4gram] 0.184012 [ -0.735154 ]
+	p( <unk> | the ...) 	= [1gram] 0.000181023 [ -3.74227 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -42.2604 ppl= 1043.77 ppl1= 1781.57
+
+the costume designer confirmed which actor the barber had shaved for the part.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( costume | the ...) 	= [3gram] 4.22406e-06 [ -5.37427 ]
+	p( designer | costume ...) 	= [2gram] 0.0194062 [ -1.71206 ]
+	p( confirmed | designer ...) 	= [1gram] 3.17429e-05 [ -4.49835 ]
+	p( which | confirmed ...) 	= [2gram] 0.00114398 [ -2.94158 ]
+	p( actor | which ...) 	= [2gram] 2.1634e-05 [ -4.66486 ]
+	p( the | actor ...) 	= [2gram] 0.00191935 [ -2.71685 ]
+	p( barber | the ...) 	= [2gram] 1.00466e-05 [ -4.99798 ]
+	p( had | barber ...) 	= [2gram] 0.00270067 [ -2.56853 ]
+	p( shaved | had ...) 	= [2gram] 5.50702e-05 [ -4.25908 ]
+	p( for | shaved ...) 	= [2gram] 0.00641747 [ -2.19264 ]
+	p( the | for ...) 	= [3gram] 0.113637 [ -0.944478 ]
+	p( <unk> | the ...) 	= [1gram] 0.000329649 [ -3.48195 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -42.8697 ppl= 1153.77 ppl1= 1984.57
+
+the costume designer confirmed which barber the actor had shaved for the part.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( costume | the ...) 	= [3gram] 4.22406e-06 [ -5.37427 ]
+	p( designer | costume ...) 	= [2gram] 0.0194062 [ -1.71206 ]
+	p( confirmed | designer ...) 	= [1gram] 3.17429e-05 [ -4.49835 ]
+	p( which | confirmed ...) 	= [2gram] 0.00114398 [ -2.94158 ]
+	p( barber | which ...) 	= [2gram] 1.4526e-06 [ -5.83786 ]
+	p( the | barber ...) 	= [2gram] 0.00209108 [ -2.67963 ]
+	p( actor | the ...) 	= [2gram] 5.92037e-05 [ -4.22765 ]
+	p( had | actor ...) 	= [3gram] 0.00588131 [ -2.23053 ]
+	p( shaved | had ...) 	= [2gram] 5.45037e-05 [ -4.26357 ]
+	p( for | shaved ...) 	= [2gram] 0.00641747 [ -2.19264 ]
+	p( the | for ...) 	= [3gram] 0.113637 [ -0.944478 ]
+	p( <unk> | the ...) 	= [1gram] 0.000329649 [ -3.48195 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -42.9016 ppl= 1159.84 ppl1= 1995.83
+
+the indian king identified which prince the elephant had trampled during the long journey.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( indian | the ...) 	= [3gram] 0.000654116 [ -3.18435 ]
+	p( king | indian ...) 	= [2gram] 3.5723e-05 [ -4.44705 ]
+	p( identified | king ...) 	= [1gram] 1.92594e-05 [ -4.71536 ]
+	p( which | identified ...) 	= [2gram] 0.00160939 [ -2.79334 ]
+	p( prince | which ...) 	= [2gram] 1.88655e-05 [ -4.72433 ]
+	p( the | prince ...) 	= [2gram] 0.00217056 [ -2.66343 ]
+	p( elephant | the ...) 	= [2gram] 7.99141e-05 [ -4.09738 ]
+	p( had | elephant ...) 	= [3gram] 0.00316041 [ -2.50026 ]
+	p( trampled | had ...) 	= [3gram] 0.000697222 [ -3.15663 ]
+	p( during | trampled ...) 	= [2gram] 0.000923898 [ -3.03438 ]
+	p( the | during ...) 	= [3gram] 0.382291 [ -0.417606 ]
+	p( long | the ...) 	= [3gram] 0.000932657 [ -3.03028 ]
+	p( <unk> | long ...) 	= [1gram] 0.000609117 [ -3.2153 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -44.4967 ppl= 925.65 ppl1= 1507.77
+
+the indian king identified which elephant the prince had trampled during the long journey.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( indian | the ...) 	= [3gram] 0.000654116 [ -3.18435 ]
+	p( king | indian ...) 	= [2gram] 3.5723e-05 [ -4.44705 ]
+	p( identified | king ...) 	= [1gram] 1.92594e-05 [ -4.71536 ]
+	p( which | identified ...) 	= [2gram] 0.00160939 [ -2.79334 ]
+	p( elephant | which ...) 	= [1gram] 3.6345e-06 [ -5.43956 ]
+	p( the | elephant ...) 	= [2gram] 0.00217604 [ -2.66233 ]
+	p( prince | the ...) 	= [2gram] 0.000101207 [ -3.99479 ]
+	p( had | prince ...) 	= [3gram] 0.00378122 [ -2.42237 ]
+	p( trampled | had ...) 	= [2gram] 5.21444e-06 [ -5.28279 ]
+	p( during | trampled ...) 	= [2gram] 0.000923898 [ -3.03438 ]
+	p( the | during ...) 	= [3gram] 0.382291 [ -0.417606 ]
+	p( long | the ...) 	= [3gram] 0.000932657 [ -3.03028 ]
+	p( <unk> | long ...) 	= [1gram] 0.000609117 [ -3.2153 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -47.1565 ppl= 1392.41 ppl1= 2335.19
+
+the investigator discovered which couple the abductor had taken during their vacation.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( investigator | the ...) 	= [3gram] 5.87856e-06 [ -5.23073 ]
+	p( discovered | investigator ...) 	= [2gram] 4.80633e-05 [ -4.31819 ]
+	p( which | discovered ...) 	= [2gram] 0.0012574 [ -2.90053 ]
+	p( couple | which ...) 	= [2gram] 1.10826e-05 [ -4.95536 ]
+	p( the | couple ...) 	= [2gram] 0.00358259 [ -2.4458 ]
+	p( abductor | the ...) 	= [2gram] 1.81037e-06 [ -5.74223 ]
+	p( had | abductor ...) 	= [2gram] 0.0115327 [ -1.93807 ]
+	p( taken | had ...) 	= [2gram] 0.00612825 [ -2.21266 ]
+	p( during | taken ...) 	= [3gram] 0.00195072 [ -2.70981 ]
+	p( their | during ...) 	= [2gram] 0.0117869 [ -1.9286 ]
+	p( <unk> | their ...) 	= [1gram] 0.000699061 [ -3.15548 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -40.0545 ppl= 1205.35 ppl1= 2177.08
+
+the investigator discovered which abductor the couple had taken during their vacation.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( investigator | the ...) 	= [3gram] 5.87856e-06 [ -5.23073 ]
+	p( discovered | investigator ...) 	= [2gram] 4.80633e-05 [ -4.31819 ]
+	p( which | discovered ...) 	= [2gram] 0.0012574 [ -2.90053 ]
+	p( abductor | which ...) 	= [1gram] 1.02461e-07 [ -6.98944 ]
+	p( the | abductor ...) 	= [2gram] 0.004142 [ -2.38279 ]
+	p( couple | the ...) 	= [2gram] 0.000191145 [ -3.71864 ]
+	p( had | couple ...) 	= [3gram] 0.0225912 [ -1.64606 ]
+	p( taken | had ...) 	= [2gram] 0.00548462 [ -2.26085 ]
+	p( during | taken ...) 	= [3gram] 0.00195072 [ -2.70981 ]
+	p( their | during ...) 	= [2gram] 0.0117869 [ -1.9286 ]
+	p( <unk> | their ...) 	= [1gram] 0.000699061 [ -3.15548 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -39.7581 ppl= 1143.72 ppl1= 2056.74
+
+the jail keeper forgot which guard the prisoner had attacked in his cell.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( jail | the ...) 	= [3gram] 1.64203e-05 [ -4.78462 ]
+	p( keeper | jail ...) 	= [2gram] 1.11196e-05 [ -4.95391 ]
+	p( forgot | keeper ...) 	= [1gram] 7.90628e-06 [ -5.10203 ]
+	p( which | forgot ...) 	= [2gram] 0.00279175 [ -2.55412 ]
+	p( guard | which ...) 	= [2gram] 1.45987e-05 [ -4.83569 ]
+	p( the | guard ...) 	= [3gram] 0.0316007 [ -1.5003 ]
+	p( prisoner | the ...) 	= [2gram] 5.46341e-05 [ -4.26254 ]
+	p( had | prisoner ...) 	= [3gram] 0.00453487 [ -2.34344 ]
+	p( attacked | had ...) 	= [2gram] 0.000299244 [ -3.52398 ]
+	p( in | attacked ...) 	= [3gram] 0.0122762 [ -1.91094 ]
+	p( his | in ...) 	= [3gram] 0.014933 [ -1.82585 ]
+	p( <unk> | his ...) 	= [1gram] 0.000489012 [ -3.31068 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.4251 ppl= 1264.14 ppl1= 2189.75
+
+the jail keeper forgot which prisoner the guard had attacked in his cell.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( jail | the ...) 	= [3gram] 1.64203e-05 [ -4.78462 ]
+	p( keeper | jail ...) 	= [2gram] 1.11196e-05 [ -4.95391 ]
+	p( forgot | keeper ...) 	= [1gram] 7.90628e-06 [ -5.10203 ]
+	p( which | forgot ...) 	= [2gram] 0.00279175 [ -2.55412 ]
+	p( prisoner | which ...) 	= [2gram] 3.2031e-06 [ -5.49443 ]
+	p( the | prisoner ...) 	= [2gram] 0.00222356 [ -2.65295 ]
+	p( guard | the ...) 	= [2gram] 5.3315e-05 [ -4.27315 ]
+	p( had | guard ...) 	= [3gram] 0.00344536 [ -2.46277 ]
+	p( attacked | had ...) 	= [2gram] 0.00030113 [ -3.52125 ]
+	p( in | attacked ...) 	= [3gram] 0.0122762 [ -1.91094 ]
+	p( his | in ...) 	= [3gram] 0.014933 [ -1.82585 ]
+	p( <unk> | his ...) 	= [1gram] 0.000489012 [ -3.31068 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -45.3637 ppl= 1738.87 ppl1= 3086.86
+
+the sailor saw which whale the man had harpooned on the starboard side.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( sailor | the ...) 	= [3gram] 5.21447e-06 [ -5.28279 ]
+	p( saw | sailor ...) 	= [2gram] 9.38376e-05 [ -4.02762 ]
+	p( which | saw ...) 	= [2gram] 0.000384507 [ -3.4151 ]
+	p( whale | which ...) 	= [1gram] 3.46906e-06 [ -5.45979 ]
+	p( the | whale ...) 	= [2gram] 0.00190656 [ -2.71975 ]
+	p( man | the ...) 	= [2gram] 0.000514654 [ -3.28848 ]
+	p( had | man ...) 	= [3gram] 0.0094709 [ -2.02361 ]
+	p( harpooned | had ...) 	= [1gram] 1.80581e-08 [ -7.74333 ]
+	p( on | harpooned ...) 	= [2gram] 0.00519947 [ -2.28404 ]
+	p( the | on ...) 	= [2gram] 0.124701 [ -0.904131 ]
+	p( starboard | the ...) 	= [3gram] 1.63109e-05 [ -4.78752 ]
+	p( <unk> | starboard ...) 	= [1gram] 0.00301081 [ -2.52132 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -46.9745 ppl= 2266.33 ppl1= 4106.05
+
+the sailor saw which man the whale had harpooned on the starboard side.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( sailor | the ...) 	= [3gram] 5.21447e-06 [ -5.28279 ]
+	p( saw | sailor ...) 	= [2gram] 9.38376e-05 [ -4.02762 ]
+	p( which | saw ...) 	= [2gram] 0.000384507 [ -3.4151 ]
+	p( man | which ...) 	= [2gram] 0.0001355 [ -3.86806 ]
+	p( the | man ...) 	= [2gram] 0.00384218 [ -2.41542 ]
+	p( whale | the ...) 	= [2gram] 2.01804e-05 [ -4.69507 ]
+	p( had | whale ...) 	= [2gram] 0.00166193 [ -2.77939 ]
+	p( harpooned | had ...) 	= [1gram] 2.19809e-08 [ -7.65795 ]
+	p( on | harpooned ...) 	= [2gram] 0.00519947 [ -2.28404 ]
+	p( the | on ...) 	= [2gram] 0.124701 [ -0.904131 ]
+	p( starboard | the ...) 	= [3gram] 1.63109e-05 [ -4.78752 ]
+	p( <unk> | starboard ...) 	= [1gram] 0.00301081 [ -2.52132 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -47.1554 ppl= 2334.78 ppl1= 4239.77
+
+the sheriff recalled which locals the gangsters had robbed in a dark alleyway.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( sheriff | the ...) 	= [3gram] 4.1369e-05 [ -4.38333 ]
+	p( recalled | sheriff ...) 	= [1gram] 1.29893e-05 [ -4.88641 ]
+	p( which | recalled ...) 	= [1gram] 0.000328944 [ -3.48288 ]
+	p( locals | which ...) 	= [2gram] 2.01333e-05 [ -4.69608 ]
+	p( the | locals ...) 	= [2gram] 0.00304764 [ -2.51604 ]
+	p( gangsters | the ...) 	= [2gram] 8.68641e-06 [ -5.06116 ]
+	p( had | gangsters ...) 	= [2gram] 0.00332149 [ -2.47867 ]
+	p( robbed | had ...) 	= [2gram] 5.47452e-05 [ -4.26165 ]
+	p( in | robbed ...) 	= [2gram] 0.0229883 [ -1.63849 ]
+	p( a | in ...) 	= [3gram] 0.0368439 [ -1.43363 ]
+	p( dark | a ...) 	= [3gram] 0.0007564 [ -3.12125 ]
+	p( <unk> | dark ...) 	= [1gram] 0.00107092 [ -2.97024 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.4469 ppl= 1268.67 ppl1= 2198.2
+
+the sheriff recalled which gangsters the locals had robbed in a dark alleyway.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( sheriff | the ...) 	= [3gram] 4.1369e-05 [ -4.38333 ]
+	p( recalled | sheriff ...) 	= [1gram] 1.29893e-05 [ -4.88641 ]
+	p( which | recalled ...) 	= [1gram] 0.000328944 [ -3.48288 ]
+	p( gangsters | which ...) 	= [1gram] 1.83599e-06 [ -5.73613 ]
+	p( the | gangsters ...) 	= [2gram] 0.00271098 [ -2.56687 ]
+	p( locals | the ...) 	= [2gram] 8.38978e-05 [ -4.07625 ]
+	p( had | locals ...) 	= [2gram] 0.00471568 [ -2.32646 ]
+	p( robbed | had ...) 	= [2gram] 5.42207e-05 [ -4.26583 ]
+	p( in | robbed ...) 	= [2gram] 0.0229883 [ -1.63849 ]
+	p( a | in ...) 	= [3gram] 0.0368439 [ -1.43363 ]
+	p( dark | a ...) 	= [3gram] 0.0007564 [ -3.12125 ]
+	p( <unk> | dark ...) 	= [1gram] 0.00107092 [ -2.97024 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.4048 ppl= 1259.92 ppl1= 2181.88
+
+the undead king recognized which woman the zombie had bitten during the fight.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( undead | the ...) 	= [2gram] 9.30802e-07 [ -6.03114 ]
+	p( king | undead ...) 	= [1gram] 6.50986e-05 [ -4.18643 ]
+	p( recognized | king ...) 	= [2gram] 3.31329e-05 [ -4.47974 ]
+	p( which | recognized ...) 	= [2gram] 0.000263273 [ -3.57959 ]
+	p( woman | which ...) 	= [2gram] 0.000232596 [ -3.6334 ]
+	p( the | woman ...) 	= [2gram] 0.00238121 [ -2.6232 ]
+	p( zombie | the ...) 	= [2gram] 9.31237e-06 [ -5.03094 ]
+	p( had | zombie ...) 	= [1gram] 0.000729158 [ -3.13718 ]
+	p( bitten | had ...) 	= [2gram] 2.80146e-05 [ -4.55262 ]
+	p( during | bitten ...) 	= [2gram] 0.0010776 [ -2.96754 ]
+	p( the | during ...) 	= [2gram] 0.36321 [ -0.439843 ]
+	p( <unk> | the ...) 	= [1gram] 0.000230856 [ -3.63666 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -46.8153 ppl= 2207.75 ppl1= 3991.88
+
+the undead king recognized which zombie the woman had bitten during the fight.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( undead | the ...) 	= [2gram] 9.30802e-07 [ -6.03114 ]
+	p( king | undead ...) 	= [1gram] 6.50986e-05 [ -4.18643 ]
+	p( recognized | king ...) 	= [2gram] 3.31329e-05 [ -4.47974 ]
+	p( which | recognized ...) 	= [2gram] 0.000263273 [ -3.57959 ]
+	p( zombie | which ...) 	= [2gram] 1.35501e-06 [ -5.86806 ]
+	p( the | zombie ...) 	= [2gram] 0.00297424 [ -2.52662 ]
+	p( woman | the ...) 	= [2gram] 0.000290576 [ -3.53674 ]
+	p( had | woman ...) 	= [3gram] 0.0127043 [ -1.89605 ]
+	p( bitten | had ...) 	= [2gram] 2.15607e-05 [ -4.66634 ]
+	p( during | bitten ...) 	= [2gram] 0.0010776 [ -2.96754 ]
+	p( the | during ...) 	= [2gram] 0.36321 [ -0.439843 ]
+	p( <unk> | the ...) 	= [1gram] 0.000230856 [ -3.63666 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -46.3318 ppl= 2038.98 ppl1= 3664.24
+
+tonia explained which housewife the conman had swindled over the phone.
+	p( tonia | <s> ) 	= [2gram] 5.95974e-08 [ -7.22477 ]
+	p( explained | tonia ...) 	= [1gram] 5.74404e-05 [ -4.24078 ]
+	p( which | explained ...) 	= [2gram] 0.000315076 [ -3.50159 ]
+	p( housewife | which ...) 	= [1gram] 9.80027e-07 [ -6.00876 ]
+	p( the | housewife ...) 	= [2gram] 0.00266293 [ -2.57464 ]
+	p( conman | the ...) 	= [2gram] 1.36795e-06 [ -5.86393 ]
+	p( had | conman ...) 	= [2gram] 0.00187251 [ -2.72758 ]
+	p( swindled | had ...) 	= [2gram] 7.82355e-06 [ -5.1066 ]
+	p( over | swindled ...) 	= [2gram] 0.00298038 [ -2.52573 ]
+	p( the | over ...) 	= [2gram] 0.156231 [ -0.806233 ]
+	p( <unk> | the ...) 	= [1gram] 0.000317703 [ -3.49798 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -45.4331 ppl= 6110.66 ppl1= 13498.3
+
+tonia explained which conman the housewife had swindled over the phone.
+	p( tonia | <s> ) 	= [2gram] 5.95974e-08 [ -7.22477 ]
+	p( explained | tonia ...) 	= [1gram] 5.74404e-05 [ -4.24078 ]
+	p( which | explained ...) 	= [2gram] 0.000315076 [ -3.50159 ]
+	p( conman | which ...) 	= [1gram] 2.375e-07 [ -6.62434 ]
+	p( the | conman ...) 	= [2gram] 0.00339372 [ -2.46932 ]
+	p( housewife | the ...) 	= [2gram] 3.83297e-06 [ -5.41646 ]
+	p( had | housewife ...) 	= [2gram] 0.000812447 [ -3.0902 ]
+	p( swindled | had ...) 	= [2gram] 7.70838e-06 [ -5.11304 ]
+	p( over | swindled ...) 	= [2gram] 0.00298038 [ -2.52573 ]
+	p( the | over ...) 	= [2gram] 0.156231 [ -0.806233 ]
+	p( <unk> | the ...) 	= [1gram] 0.000317703 [ -3.49798 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -45.8649 ppl= 6638.6 ppl1= 14775.4
+
+the broadcaster explained which contestant the judge had disqualified from the show.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( broadcaster | the ...) 	= [3gram] 6.74828e-06 [ -5.17081 ]
+	p( explained | broadcaster ...) 	= [1gram] 3.51208e-05 [ -4.45444 ]
+	p( which | explained ...) 	= [2gram] 0.000315076 [ -3.50159 ]
+	p( contestant | which ...) 	= [2gram] 2.72734e-06 [ -5.56426 ]
+	p( the | contestant ...) 	= [2gram] 0.00379281 [ -2.42104 ]
+	p( judge | the ...) 	= [2gram] 0.000252149 [ -3.59834 ]
+	p( had | judge ...) 	= [3gram] 0.00951485 [ -2.0216 ]
+	p( disqualified | had ...) 	= [2gram] 7.48504e-06 [ -5.12581 ]
+	p( from | disqualified ...) 	= [2gram] 0.104671 [ -0.980173 ]
+	p( the | from ...) 	= [3gram] 0.172406 [ -0.763448 ]
+	p( <unk> | the ...) 	= [1gram] 0.000340026 [ -3.46849 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -39.587 ppl= 1109.57 ppl1= 1990.3
+
+the broadcaster explained which judge the contestant had disqualified from the show.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( broadcaster | the ...) 	= [3gram] 6.74828e-06 [ -5.17081 ]
+	p( explained | broadcaster ...) 	= [1gram] 3.51208e-05 [ -4.45444 ]
+	p( which | explained ...) 	= [2gram] 0.000315076 [ -3.50159 ]
+	p( judge | which ...) 	= [2gram] 3.70422e-05 [ -4.4313 ]
+	p( the | judge ...) 	= [2gram] 0.016188 [ -1.79081 ]
+	p( contestant | the ...) 	= [2gram] 3.11696e-06 [ -5.50627 ]
+	p( had | contestant ...) 	= [2gram] 0.0032278 [ -2.49109 ]
+	p( disqualified | had ...) 	= [2gram] 8.40885e-06 [ -5.07526 ]
+	p( from | disqualified ...) 	= [2gram] 0.104671 [ -0.980173 ]
+	p( the | from ...) 	= [3gram] 0.172406 [ -0.763448 ]
+	p( <unk> | the ...) 	= [1gram] 0.000340026 [ -3.46849 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -40.1507 ppl= 1226.07 ppl1= 2217.64
+
+the campaign volunteer speculated which mayor the voters had elected by a landslide.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( campaign | the ...) 	= [3gram] 0.000311343 [ -3.50676 ]
+	p( volunteer | campaign ...) 	= [2gram] 0.000104894 [ -3.97925 ]
+	p( speculated | volunteer ...) 	= [1gram] 2.55345e-06 [ -5.59287 ]
+	p( which | speculated ...) 	= [1gram] 0.000348482 [ -3.45782 ]
+	p( mayor | which ...) 	= [2gram] 1.31856e-05 [ -4.8799 ]
+	p( the | mayor ...) 	= [2gram] 0.00236109 [ -2.62689 ]
+	p( voters | the ...) 	= [2gram] 0.000133168 [ -3.8756 ]
+	p( had | voters ...) 	= [3gram] 0.00477562 [ -2.32097 ]
+	p( elected | had ...) 	= [3gram] 0.000218677 [ -3.6602 ]
+	p( by | elected ...) 	= [2gram] 0.0603296 [ -1.21947 ]
+	p( a | by ...) 	= [3gram] 0.0545978 [ -1.26283 ]
+	p( <unk> | a ...) 	= [1gram] 0.000299804 [ -3.52316 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -42.4227 ppl= 1072 ppl1= 1833.53
+
+the campaign volunteer speculated which voters the mayor had elected by a landslide.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( campaign | the ...) 	= [3gram] 0.000311343 [ -3.50676 ]
+	p( volunteer | campaign ...) 	= [2gram] 0.000104894 [ -3.97925 ]
+	p( speculated | volunteer ...) 	= [1gram] 2.55345e-06 [ -5.59287 ]
+	p( which | speculated ...) 	= [1gram] 0.000348482 [ -3.45782 ]
+	p( voters | which ...) 	= [2gram] 6.1789e-05 [ -4.20909 ]
+	p( the | voters ...) 	= [2gram] 0.00334376 [ -2.47576 ]
+	p( mayor | the ...) 	= [2gram] 0.000157054 [ -3.80395 ]
+	p( had | mayor ...) 	= [3gram] 0.00510746 [ -2.2918 ]
+	p( elected | had ...) 	= [2gram] 9.33141e-05 [ -4.03005 ]
+	p( by | elected ...) 	= [2gram] 0.0603296 [ -1.21947 ]
+	p( a | by ...) 	= [3gram] 0.0545978 [ -1.26283 ]
+	p( <unk> | a ...) 	= [1gram] 0.000299804 [ -3.52316 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -41.8698 ppl= 978.821 ppl1= 1662.48
+
+the family counselor understood which daughter the stepparent had abused on a daily basis.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( family | the ...) 	= [3gram] 0.000773214 [ -3.1117 ]
+	p( counselor | family ...) 	= [2gram] 1.91925e-05 [ -4.71687 ]
+	p( understood | counselor ...) 	= [1gram] 1.52013e-05 [ -4.81812 ]
+	p( which | understood ...) 	= [2gram] 0.000375299 [ -3.42562 ]
+	p( daughter | which ...) 	= [2gram] 1.28519e-05 [ -4.89103 ]
+	p( the | daughter ...) 	= [2gram] 0.00277691 [ -2.55644 ]
+	p( <unk> | the ...) 	= [1gram] 0.000951129 [ -3.02176 ]
+	p( had | <unk> ...) 	= [1gram] 0.00133761 [ -2.87367 ]
+	p( abused | had ...) 	= [2gram] 0.00017222 [ -3.76392 ]
+	p( on | abused ...) 	= [2gram] 0.00283258 [ -2.54782 ]
+	p( a | on ...) 	= [3gram] 0.10785 [ -0.967178 ]
+	p( daily | a ...) 	= [4gram] 0.0946246 [ -1.024 ]
+	p( <unk> | daily ...) 	= [1gram] 0.000281097 [ -3.55114 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -43.7863 ppl= 830.016 ppl1= 1341.51
+
+the family counselor understood which stepparent the daughter had abused on a daily basis.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( family | the ...) 	= [3gram] 0.000773214 [ -3.1117 ]
+	p( counselor | family ...) 	= [2gram] 1.91925e-05 [ -4.71687 ]
+	p( understood | counselor ...) 	= [1gram] 1.52013e-05 [ -4.81812 ]
+	p( which | understood ...) 	= [2gram] 0.000375299 [ -3.42562 ]
+	p( <unk> | which ...) 	= [1gram] 0.00128938 [ -2.88962 ]
+	p( the | <unk> ...) 	= [1gram] 0.00474959 [ -2.32334 ]
+	p( daughter | the ...) 	= [2gram] 9.63195e-05 [ -4.01629 ]
+	p( had | daughter ...) 	= [2gram] 0.00690506 [ -2.16083 ]
+	p( abused | had ...) 	= [2gram] 0.000137417 [ -3.86196 ]
+	p( on | abused ...) 	= [2gram] 0.00283258 [ -2.54782 ]
+	p( a | on ...) 	= [3gram] 0.10785 [ -0.967178 ]
+	p( daily | a ...) 	= [4gram] 0.0946246 [ -1.024 ]
+	p( <unk> | daily ...) 	= [1gram] 0.000281097 [ -3.55114 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -41.9315 ppl= 624.359 ppl1= 988.799
+
+the newscaster confirmed which fugitive the policeman had arrested following the robbery.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( newscaster | the ...) 	= [2gram] 5.06132e-07 [ -6.29574 ]
+	p( confirmed | newscaster ...) 	= [1gram] 7.78933e-05 [ -4.1085 ]
+	p( which | confirmed ...) 	= [2gram] 0.00114398 [ -2.94158 ]
+	p( fugitive | which ...) 	= [2gram] 1.95001e-06 [ -5.70996 ]
+	p( the | fugitive ...) 	= [2gram] 0.00220979 [ -2.65565 ]
+	p( policeman | the ...) 	= [2gram] 3.34309e-05 [ -4.47585 ]
+	p( had | policeman ...) 	= [3gram] 0.00993505 [ -2.00283 ]
+	p( arrested | had ...) 	= [2gram] 0.000167635 [ -3.77564 ]
+	p( following | arrested ...) 	= [2gram] 0.00158228 [ -2.80072 ]
+	p( the | following ...) 	= [3gram] 0.231214 [ -0.635986 ]
+	p( <unk> | the ...) 	= [1gram] 0.000478724 [ -3.31991 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -41.2394 ppl= 1486.83 ppl1= 2732.85
+
+the newscaster confirmed which policeman the fugitive had arrested following the robbery.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( newscaster | the ...) 	= [2gram] 5.06132e-07 [ -6.29574 ]
+	p( confirmed | newscaster ...) 	= [1gram] 7.78933e-05 [ -4.1085 ]
+	p( which | confirmed ...) 	= [2gram] 0.00114398 [ -2.94158 ]
+	p( policeman | which ...) 	= [1gram] 3.74195e-06 [ -5.4269 ]
+	p( the | policeman ...) 	= [2gram] 0.00260368 [ -2.58441 ]
+	p( fugitive | the ...) 	= [2gram] 1.97285e-05 [ -4.70491 ]
+	p( had | fugitive ...) 	= [2gram] 0.00150478 [ -2.82253 ]
+	p( arrested | had ...) 	= [2gram] 0.000199309 [ -3.70047 ]
+	p( following | arrested ...) 	= [2gram] 0.00158228 [ -2.80072 ]
+	p( the | following ...) 	= [3gram] 0.231214 [ -0.635986 ]
+	p( <unk> | the ...) 	= [1gram] 0.000478724 [ -3.31991 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -41.8587 ppl= 1659.2 ppl1= 3077.68
+
+the opera composer revealed which pirate the singer had portrayed with the greatest finesse.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( opera | the ...) 	= [3gram] 1.56993e-05 [ -4.80412 ]
+	p( composer | opera ...) 	= [2gram] 0.000365533 [ -3.43707 ]
+	p( revealed | composer ...) 	= [1gram] 3.49828e-05 [ -4.45615 ]
+	p( which | revealed ...) 	= [2gram] 0.000464679 [ -3.33285 ]
+	p( pirate | which ...) 	= [2gram] 2.37315e-06 [ -5.62468 ]
+	p( the | pirate ...) 	= [2gram] 0.00354167 [ -2.45079 ]
+	p( singer | the ...) 	= [2gram] 5.17523e-05 [ -4.28607 ]
+	p( had | singer ...) 	= [3gram] 0.00765545 [ -2.11603 ]
+	p( portrayed | had ...) 	= [2gram] 2.12709e-05 [ -4.67221 ]
+	p( with | portrayed ...) 	= [2gram] 0.00416885 [ -2.37998 ]
+	p( the | with ...) 	= [3gram] 0.0839849 [ -1.0758 ]
+	p( greatest | the ...) 	= [3gram] 0.00136583 [ -2.8646 ]
+	p( <unk> | greatest ...) 	= [1gram] 0.00236411 [ -2.62633 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -46.6437 ppl= 1287.01 ppl1= 2146.32
+
+the opera composer revealed which singer the pirate had portrayed with the greatest finesse.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( opera | the ...) 	= [3gram] 1.56993e-05 [ -4.80412 ]
+	p( composer | opera ...) 	= [2gram] 0.000365533 [ -3.43707 ]
+	p( revealed | composer ...) 	= [1gram] 3.49828e-05 [ -4.45615 ]
+	p( which | revealed ...) 	= [2gram] 0.000464679 [ -3.33285 ]
+	p( singer | which ...) 	= [2gram] 9.26957e-06 [ -5.03294 ]
+	p( the | singer ...) 	= [2gram] 0.00196721 [ -2.70615 ]
+	p( pirate | the ...) 	= [2gram] 2.18108e-05 [ -4.66133 ]
+	p( had | pirate ...) 	= [2gram] 0.000627724 [ -3.20223 ]
+	p( portrayed | had ...) 	= [2gram] 2.34348e-05 [ -4.63014 ]
+	p( with | portrayed ...) 	= [2gram] 0.00416885 [ -2.37998 ]
+	p( the | with ...) 	= [3gram] 0.0839849 [ -1.0758 ]
+	p( greatest | the ...) 	= [3gram] 0.00136583 [ -2.8646 ]
+	p( <unk> | greatest ...) 	= [1gram] 0.00236411 [ -2.62633 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -47.7267 ppl= 1519.78 ppl1= 2564.79
+
+the prison warden guessed which jailer the inmate had stabbed with a knife.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( prison | the ...) 	= [3gram] 6.35046e-05 [ -4.1972 ]
+	p( warden | prison ...) 	= [2gram] 0.000497707 [ -3.30303 ]
+	p( guessed | warden ...) 	= [1gram] 3.78245e-06 [ -5.42223 ]
+	p( which | guessed ...) 	= [2gram] 0.000816364 [ -3.08812 ]
+	p( jailer | which ...) 	= [1gram] 1.86058e-07 [ -6.73035 ]
+	p( the | jailer ...) 	= [1gram] 0.00293613 [ -2.53223 ]
+	p( inmate | the ...) 	= [2gram] 1.13969e-05 [ -4.94321 ]
+	p( had | inmate ...) 	= [2gram] 0.00681117 [ -2.16678 ]
+	p( stabbed | had ...) 	= [2gram] 3.45938e-05 [ -4.461 ]
+	p( with | stabbed ...) 	= [2gram] 0.030967 [ -1.5091 ]
+	p( a | with ...) 	= [3gram] 0.468599 [ -0.329198 ]
+	p( <unk> | a ...) 	= [1gram] 0.000254302 [ -3.59465 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -44.7941 ppl= 1583.36 ppl1= 2790.62
+
+the prison warden guessed which inmate the jailer had stabbed with a knife.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( prison | the ...) 	= [3gram] 6.35046e-05 [ -4.1972 ]
+	p( warden | prison ...) 	= [2gram] 0.000497707 [ -3.30303 ]
+	p( guessed | warden ...) 	= [1gram] 3.78245e-06 [ -5.42223 ]
+	p( which | guessed ...) 	= [2gram] 0.000816364 [ -3.08812 ]
+	p( inmate | which ...) 	= [1gram] 1.03454e-06 [ -5.98525 ]
+	p( the | inmate ...) 	= [2gram] 0.00315929 [ -2.50041 ]
+	p( jailer | the ...) 	= [2gram] 1.26392e-06 [ -5.89828 ]
+	p( had | jailer ...) 	= [2gram] 0.000839412 [ -3.07603 ]
+	p( stabbed | had ...) 	= [2gram] 3.69908e-05 [ -4.43191 ]
+	p( with | stabbed ...) 	= [2gram] 0.030967 [ -1.5091 ]
+	p( a | with ...) 	= [3gram] 0.468599 [ -0.329198 ]
+	p( <unk> | a ...) 	= [1gram] 0.000254302 [ -3.59465 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -45.8524 ppl= 1884.4 ppl1= 3365.96
+
+the producer observed which viewers the acrobats had impressed with their tricks.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( producer | the ...) 	= [3gram] 2.45348e-05 [ -4.61022 ]
+	p( observed | producer ...) 	= [1gram] 8.43378e-06 [ -5.07398 ]
+	p( which | observed ...) 	= [2gram] 0.000412971 [ -3.38408 ]
+	p( viewers | which ...) 	= [2gram] 2.3613e-05 [ -4.62685 ]
+	p( the | viewers ...) 	= [2gram] 0.00697125 [ -2.15669 ]
+	p( acrobats | the ...) 	= [2gram] 3.34679e-07 [ -6.47537 ]
+	p( had | acrobats ...) 	= [1gram] 0.000827237 [ -3.08237 ]
+	p( impressed | had ...) 	= [2gram] 3.98521e-05 [ -4.39955 ]
+	p( with | impressed ...) 	= [3gram] 0.0866671 [ -1.06215 ]
+	p( their | with ...) 	= [3gram] 0.0235691 [ -1.62766 ]
+	p( <unk> | their ...) 	= [1gram] 0.000764574 [ -3.11658 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -42.1325 ppl= 1741.66 ppl1= 3243.72
+
+the producer observed which acrobats the viewers had impressed with their tricks.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( producer | the ...) 	= [3gram] 2.45348e-05 [ -4.61022 ]
+	p( observed | producer ...) 	= [1gram] 8.43378e-06 [ -5.07398 ]
+	p( which | observed ...) 	= [2gram] 0.000412971 [ -3.38408 ]
+	p( acrobats | which ...) 	= [1gram] 1.57045e-07 [ -6.80398 ]
+	p( the | acrobats ...) 	= [2gram] 0.00485673 [ -2.31366 ]
+	p( viewers | the ...) 	= [2gram] 2.82636e-05 [ -4.54877 ]
+	p( had | viewers ...) 	= [2gram] 0.00213223 [ -2.67117 ]
+	p( impressed | had ...) 	= [2gram] 3.39505e-05 [ -4.46915 ]
+	p( with | impressed ...) 	= [3gram] 0.0866671 [ -1.06215 ]
+	p( their | with ...) 	= [3gram] 0.0235691 [ -1.62766 ]
+	p( <unk> | their ...) 	= [1gram] 0.000764574 [ -3.11658 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -42.1984 ppl= 1762.11 ppl1= 3285
+
+the queen recognized which nobleman the comedian had entertained with his jokes.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( queen | the ...) 	= [3gram] 0.000248447 [ -3.60477 ]
+	p( recognized | queen ...) 	= [2gram] 1.80819e-05 [ -4.74275 ]
+	p( which | recognized ...) 	= [2gram] 0.000267027 [ -3.57344 ]
+	p( nobleman | which ...) 	= [1gram] 8.51426e-08 [ -7.06985 ]
+	p( the | nobleman ...) 	= [1gram] 0.00343224 [ -2.46442 ]
+	p( comedian | the ...) 	= [2gram] 1.01355e-05 [ -4.99415 ]
+	p( had | comedian ...) 	= [3gram] 0.00241539 [ -2.61701 ]
+	p( entertained | had ...) 	= [2gram] 1.6788e-05 [ -4.775 ]
+	p( with | entertained ...) 	= [2gram] 0.0166879 [ -1.7776 ]
+	p( his | with ...) 	= [3gram] 0.0237543 [ -1.62426 ]
+	p( <unk> | his ...) 	= [1gram] 0.000783273 [ -3.10609 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -42.8664 ppl= 1983.42 ppl1= 3734.21
+
+the queen recognized which comedian the nobleman had entertained with his jokes.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( queen | the ...) 	= [3gram] 0.000248447 [ -3.60477 ]
+	p( recognized | queen ...) 	= [2gram] 1.80819e-05 [ -4.74275 ]
+	p( which | recognized ...) 	= [2gram] 0.000267027 [ -3.57344 ]
+	p( comedian | which ...) 	= [2gram] 2.5767e-06 [ -5.58894 ]
+	p( the | comedian ...) 	= [2gram] 0.00240912 [ -2.61814 ]
+	p( nobleman | the ...) 	= [2gram] 6.26746e-07 [ -6.20291 ]
+	p( had | nobleman ...) 	= [2gram] 0.000940514 [ -3.02663 ]
+	p( entertained | had ...) 	= [2gram] 1.69909e-05 [ -4.76978 ]
+	p( with | entertained ...) 	= [2gram] 0.0166879 [ -1.7776 ]
+	p( his | with ...) 	= [3gram] 0.0237543 [ -1.62426 ]
+	p( <unk> | his ...) 	= [1gram] 0.000783273 [ -3.10609 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -43.1523 ppl= 2086.46 ppl1= 3944.83
+
+the reporter inquired which animals the groomer had cleaned with special shampoo.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( reporter | the ...) 	= [3gram] 0.000570177 [ -3.24399 ]
+	p( inquired | reporter ...) 	= [2gram] 9.63818e-05 [ -4.01601 ]
+	p( which | inquired ...) 	= [2gram] 0.000530049 [ -3.27568 ]
+	p( animals | which ...) 	= [2gram] 5.26153e-05 [ -4.27889 ]
+	p( the | animals ...) 	= [2gram] 0.00182045 [ -2.73982 ]
+	p( groomer | the ...) 	= [2gram] 5.5289e-07 [ -6.25736 ]
+	p( had | groomer ...) 	= [1gram] 0.00102148 [ -2.99077 ]
+	p( cleaned | had ...) 	= [2gram] 7.59931e-05 [ -4.11923 ]
+	p( with | cleaned ...) 	= [2gram] 0.00613013 [ -2.21253 ]
+	p( special | with ...) 	= [2gram] 0.000775018 [ -3.11069 ]
+	p( <unk> | special ...) 	= [1gram] 0.00118965 [ -2.92458 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -41.6866 ppl= 1609.38 ppl1= 2977.7
+
+the reporter inquired which groomer the animals had cleaned with special shampoo.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( reporter | the ...) 	= [3gram] 0.000570177 [ -3.24399 ]
+	p( inquired | reporter ...) 	= [2gram] 9.63818e-05 [ -4.01601 ]
+	p( which | inquired ...) 	= [2gram] 0.000530049 [ -3.27568 ]
+	p( groomer | which ...) 	= [1gram] 4.25092e-08 [ -7.37152 ]
+	p( the | groomer ...) 	= [1gram] 0.00362709 [ -2.44044 ]
+	p( animals | the ...) 	= [2gram] 0.000120795 [ -3.91795 ]
+	p( had | animals ...) 	= [3gram] 0.00514924 [ -2.28826 ]
+	p( cleaned | had ...) 	= [2gram] 5.86458e-05 [ -4.23176 ]
+	p( with | cleaned ...) 	= [2gram] 0.00613013 [ -2.21253 ]
+	p( special | with ...) 	= [2gram] 0.000775018 [ -3.11069 ]
+	p( <unk> | special ...) 	= [1gram] 0.00118965 [ -2.92458 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -41.5504 ppl= 1571.04 ppl1= 2900.92
+
+the ape researcher identified which chimpanzee the poacher had shot in the jungle.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( ape | the ...) 	= [3gram] 1.73171e-06 [ -5.76153 ]
+	p( researcher | ape ...) 	= [1gram] 7.32455e-06 [ -5.13522 ]
+	p( identified | researcher ...) 	= [1gram] 2.92911e-05 [ -4.53326 ]
+	p( which | identified ...) 	= [2gram] 0.00160939 [ -2.79334 ]
+	p( chimpanzee | which ...) 	= [1gram] 4.81216e-07 [ -6.31766 ]
+	p( the | chimpanzee ...) 	= [2gram] 0.0028917 [ -2.53885 ]
+	p( poacher | the ...) 	= [2gram] 8.11009e-07 [ -6.09097 ]
+	p( had | poacher ...) 	= [2gram] 0.000864295 [ -3.06334 ]
+	p( shot | had ...) 	= [2gram] 0.000302822 [ -3.51881 ]
+	p( in | shot ...) 	= [3gram] 0.0325051 [ -1.48805 ]
+	p( the | in ...) 	= [4gram] 0.478539 [ -0.320083 ]
+	p( <unk> | the ...) 	= [1gram] 0.000103897 [ -3.9834 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -48.0615 ppl= 2709.99 ppl1= 4977.85
+
+the ape researcher identified which poacher the chimpanzee had shot in the jungle.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( ape | the ...) 	= [3gram] 1.73171e-06 [ -5.76153 ]
+	p( researcher | ape ...) 	= [1gram] 7.32455e-06 [ -5.13522 ]
+	p( identified | researcher ...) 	= [1gram] 2.92911e-05 [ -4.53326 ]
+	p( which | identified ...) 	= [2gram] 0.00160939 [ -2.79334 ]
+	p( poacher | which ...) 	= [1gram] 2.41816e-07 [ -6.61651 ]
+	p( the | poacher ...) 	= [1gram] 0.0027156 [ -2.56613 ]
+	p( chimpanzee | the ...) 	= [2gram] 3.74411e-06 [ -5.42665 ]
+	p( had | chimpanzee ...) 	= [2gram] 0.00154198 [ -2.81192 ]
+	p( shot | had ...) 	= [2gram] 0.000303499 [ -3.51784 ]
+	p( in | shot ...) 	= [3gram] 0.0325051 [ -1.48805 ]
+	p( the | in ...) 	= [4gram] 0.478539 [ -0.320083 ]
+	p( <unk> | the ...) 	= [1gram] 0.000103897 [ -3.9834 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -47.471 ppl= 2459.14 ppl1= 4483.46
+
+the boatman saw which shark the diver had speared just off the shore.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( boatman | the ...) 	= [2gram] 3.55798e-07 [ -6.4488 ]
+	p( saw | boatman ...) 	= [1gram] 8.78982e-05 [ -4.05602 ]
+	p( which | saw ...) 	= [2gram] 0.000384507 [ -3.4151 ]
+	p( shark | which ...) 	= [1gram] 6.35633e-06 [ -5.19679 ]
+	p( the | shark ...) 	= [2gram] 0.00137458 [ -2.86183 ]
+	p( diver | the ...) 	= [2gram] 3.24743e-06 [ -5.48846 ]
+	p( had | diver ...) 	= [2gram] 0.00323856 [ -2.48965 ]
+	p( speared | had ...) 	= [2gram] 2.28866e-07 [ -6.64042 ]
+	p( just | speared ...) 	= [1gram] 0.000539262 [ -3.2682 ]
+	p( off | just ...) 	= [2gram] 0.000980646 [ -3.00849 ]
+	p( the | off ...) 	= [3gram] 0.362298 [ -0.440934 ]
+	p( <unk> | the ...) 	= [1gram] 0.000388179 [ -3.41097 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -49.2427 ppl= 3291.05 ppl1= 6136.19
+
+the boatman saw which diver the shark had speared just off the shore.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( boatman | the ...) 	= [2gram] 3.55798e-07 [ -6.4488 ]
+	p( saw | boatman ...) 	= [1gram] 8.78982e-05 [ -4.05602 ]
+	p( which | saw ...) 	= [2gram] 0.000384507 [ -3.4151 ]
+	p( diver | which ...) 	= [1gram] 6.88234e-07 [ -6.16226 ]
+	p( the | diver ...) 	= [2gram] 0.00269562 [ -2.56934 ]
+	p( shark | the ...) 	= [2gram] 2.4323e-05 [ -4.61398 ]
+	p( had | shark ...) 	= [2gram] 0.00130449 [ -2.88456 ]
+	p( speared | had ...) 	= [2gram] 2.26131e-07 [ -6.64564 ]
+	p( just | speared ...) 	= [1gram] 0.000539262 [ -3.2682 ]
+	p( off | just ...) 	= [2gram] 0.000980646 [ -3.00849 ]
+	p( the | off ...) 	= [3gram] 0.362298 [ -0.440934 ]
+	p( <unk> | the ...) 	= [1gram] 0.000388179 [ -3.41097 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -49.4413 ppl= 3400.34 ppl1= 6355.92
+
+the committee member guessed which advisors the president had appointed to the cabinet.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( committee | the ...) 	= [3gram] 0.00632378 [ -2.19902 ]
+	p( member | committee ...) 	= [4gram] 0.0290898 [ -1.53626 ]
+	p( guessed | member ...) 	= [1gram] 1.23426e-06 [ -5.90859 ]
+	p( which | guessed ...) 	= [2gram] 0.000816364 [ -3.08812 ]
+	p( advisors | which ...) 	= [1gram] 2.50506e-06 [ -5.60118 ]
+	p( the | advisors ...) 	= [2gram] 0.00237884 [ -2.62363 ]
+	p( president | the ...) 	= [2gram] 0.000896227 [ -3.04758 ]
+	p( had | president ...) 	= [3gram] 0.00578181 [ -2.23794 ]
+	p( appointed | had ...) 	= [2gram] 0.00022825 [ -3.64159 ]
+	p( to | appointed ...) 	= [2gram] 0.0292357 [ -1.53409 ]
+	p( the | to ...) 	= [3gram] 0.11708 [ -0.931519 ]
+	p( <unk> | the ...) 	= [1gram] 0.000317349 [ -3.49846 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -38.365 ppl= 549.994 ppl1= 893.624
+
+the committee member guessed which president the advisors had appointed to the cabinet.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( committee | the ...) 	= [3gram] 0.00632378 [ -2.19902 ]
+	p( member | committee ...) 	= [4gram] 0.0290898 [ -1.53626 ]
+	p( guessed | member ...) 	= [1gram] 1.23426e-06 [ -5.90859 ]
+	p( which | guessed ...) 	= [2gram] 0.000816364 [ -3.08812 ]
+	p( president | which ...) 	= [2gram] 0.000339463 [ -3.46921 ]
+	p( the | president ...) 	= [2gram] 0.00188991 [ -2.72356 ]
+	p( advisors | the ...) 	= [2gram] 4.93367e-06 [ -5.30683 ]
+	p( had | advisors ...) 	= [2gram] 0.00305391 [ -2.51514 ]
+	p( appointed | had ...) 	= [2gram] 0.000254206 [ -3.59481 ]
+	p( to | appointed ...) 	= [2gram] 0.0292357 [ -1.53409 ]
+	p( the | to ...) 	= [3gram] 0.11708 [ -0.931519 ]
+	p( <unk> | the ...) 	= [1gram] 0.000317349 [ -3.49846 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -38.8226 ppl= 592.988 ppl1= 969.075
+
+the farmer indicated which donkey the townsperson had bought in the neighboring village.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( farmer | the ...) 	= [3gram] 3.48827e-05 [ -4.45739 ]
+	p( indicated | farmer ...) 	= [1gram] 2.58676e-05 [ -4.58724 ]
+	p( which | indicated ...) 	= [2gram] 0.000768198 [ -3.11453 ]
+	p( donkey | which ...) 	= [1gram] 2.35858e-06 [ -5.62735 ]
+	p( the | donkey ...) 	= [2gram] 0.00275201 [ -2.56035 ]
+	p( townsperson | the ...) 	= [1gram] 6.97492e-08 [ -7.15646 ]
+	p( had | townsperson ...) 	= [1gram] 0.00119396 [ -2.92301 ]
+	p( bought | had ...) 	= [2gram] 0.00112618 [ -2.94839 ]
+	p( in | bought ...) 	= [3gram] 0.0288573 [ -1.53974 ]
+	p( the | in ...) 	= [4gram] 0.237559 [ -0.624229 ]
+	p( neighboring | the ...) 	= [3gram] 0.000194933 [ -3.71011 ]
+	p( <unk> | neighboring ...) 	= [1gram] 0.00127714 [ -2.89376 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -44.6596 ppl= 1548.72 ppl1= 2724.92
+
+the farmer indicated which townsperson the donkey had bought in the neighboring village.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( farmer | the ...) 	= [3gram] 3.48827e-05 [ -4.45739 ]
+	p( indicated | farmer ...) 	= [1gram] 2.58676e-05 [ -4.58724 ]
+	p( which | indicated ...) 	= [2gram] 0.000768198 [ -3.11453 ]
+	p( townsperson | which ...) 	= [1gram] 8.81204e-08 [ -7.05492 ]
+	p( the | townsperson ...) 	= [1gram] 0.00423953 [ -2.37268 ]
+	p( donkey | the ...) 	= [2gram] 3.86977e-05 [ -4.41231 ]
+	p( had | donkey ...) 	= [2gram] 0.00288049 [ -2.54053 ]
+	p( bought | had ...) 	= [2gram] 0.00112231 [ -2.94989 ]
+	p( in | bought ...) 	= [3gram] 0.0288573 [ -1.53974 ]
+	p( the | in ...) 	= [4gram] 0.237559 [ -0.624229 ]
+	p( neighboring | the ...) 	= [3gram] 0.000194933 [ -3.71011 ]
+	p( <unk> | neighboring ...) 	= [1gram] 0.00127714 [ -2.89376 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -42.7744 ppl= 1135.83 ppl1= 1951.36
+
+the military man knew which soldiers the general had promoted after their tour.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( military | the ...) 	= [3gram] 0.0017393 [ -2.75962 ]
+	p( man | military ...) 	= [2gram] 0.00043603 [ -3.36048 ]
+	p( knew | man ...) 	= [2gram] 0.000122264 [ -3.9127 ]
+	p( which | knew ...) 	= [2gram] 0.00144881 [ -2.83899 ]
+	p( soldiers | which ...) 	= [2gram] 5.46665e-05 [ -4.26228 ]
+	p( the | soldiers ...) 	= [2gram] 0.00195911 [ -2.70794 ]
+	p( general | the ...) 	= [2gram] 0.000913173 [ -3.03945 ]
+	p( had | general ...) 	= [3gram] 0.000844826 [ -3.07323 ]
+	p( promoted | had ...) 	= [2gram] 0.000131192 [ -3.88209 ]
+	p( after | promoted ...) 	= [2gram] 0.00149541 [ -2.82524 ]
+	p( their | after ...) 	= [2gram] 0.00697808 [ -2.15626 ]
+	p( <unk> | their ...) 	= [1gram] 0.00086613 [ -3.06242 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -40.3977 ppl= 768.339 ppl1= 1280.91
+
+the military man knew which general the soldiers had promoted after their tour.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( military | the ...) 	= [3gram] 0.0017393 [ -2.75962 ]
+	p( man | military ...) 	= [2gram] 0.00043603 [ -3.36048 ]
+	p( knew | man ...) 	= [2gram] 0.000122264 [ -3.9127 ]
+	p( which | knew ...) 	= [2gram] 0.00144881 [ -2.83899 ]
+	p( general | which ...) 	= [2gram] 0.000114566 [ -3.94095 ]
+	p( the | general ...) 	= [2gram] 0.00148734 [ -2.82759 ]
+	p( soldiers | the ...) 	= [2gram] 0.000193264 [ -3.71385 ]
+	p( had | soldiers ...) 	= [3gram] 0.0114942 [ -1.93952 ]
+	p( promoted | had ...) 	= [2gram] 7.95992e-05 [ -4.09909 ]
+	p( after | promoted ...) 	= [2gram] 0.00149541 [ -2.82524 ]
+	p( their | after ...) 	= [2gram] 0.00697808 [ -2.15626 ]
+	p( <unk> | their ...) 	= [1gram] 0.00086613 [ -3.06242 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -39.9537 ppl= 714.231 ppl1= 1184.04
+
+the parole officer confirmed which delinquent the psychologist had treated several times already.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( parole | the ...) 	= [3gram] 3.19915e-06 [ -5.49497 ]
+	p( officer | parole ...) 	= [3gram] 0.00681188 [ -2.16673 ]
+	p( confirmed | officer ...) 	= [2gram] 0.000209776 [ -3.67824 ]
+	p( which | confirmed ...) 	= [2gram] 0.00103619 [ -2.98456 ]
+	p( delinquent | which ...) 	= [1gram] 6.38026e-07 [ -6.19516 ]
+	p( the | delinquent ...) 	= [1gram] 0.00280302 [ -2.55237 ]
+	p( psychologist | the ...) 	= [2gram] 6.81279e-06 [ -5.16668 ]
+	p( had | psychologist ...) 	= [2gram] 0.00161646 [ -2.79143 ]
+	p( treated | had ...) 	= [2gram] 0.000139438 [ -3.85562 ]
+	p( several | treated ...) 	= [3gram] 0.00175264 [ -2.75631 ]
+	p( times | several ...) 	= [3gram] 0.0709267 [ -1.14919 ]
+	p( <unk> | times ...) 	= [1gram] 0.000285916 [ -3.54376 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -44.8521 ppl= 1598.52 ppl1= 2819.41
+
+the parole officer confirmed which psychologist the delinquent had treated several times already.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( parole | the ...) 	= [3gram] 3.19915e-06 [ -5.49497 ]
+	p( officer | parole ...) 	= [3gram] 0.00681188 [ -2.16673 ]
+	p( confirmed | officer ...) 	= [2gram] 0.000209776 [ -3.67824 ]
+	p( which | confirmed ...) 	= [2gram] 0.00103619 [ -2.98456 ]
+	p( psychologist | which ...) 	= [2gram] 7.32726e-07 [ -6.13506 ]
+	p( the | psychologist ...) 	= [2gram] 0.00244141 [ -2.61236 ]
+	p( delinquent | the ...) 	= [2gram] 2.66403e-06 [ -5.57446 ]
+	p( had | delinquent ...) 	= [1gram] 0.000789404 [ -3.1027 ]
+	p( treated | had ...) 	= [2gram] 0.000140442 [ -3.8525 ]
+	p( several | treated ...) 	= [3gram] 0.00175264 [ -2.75631 ]
+	p( times | several ...) 	= [3gram] 0.0709267 [ -1.14919 ]
+	p( <unk> | times ...) 	= [1gram] 0.000285916 [ -3.54376 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -45.5679 ppl= 1798.24 ppl1= 3200.52
+
+the policeman knew which suspect the detective had arrested for the recent crime.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( policeman | the ...) 	= [3gram] 1.84332e-05 [ -4.7344 ]
+	p( knew | policeman ...) 	= [2gram] 0.000140407 [ -3.85261 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( suspect | which ...) 	= [2gram] 1.04424e-05 [ -4.9812 ]
+	p( the | suspect ...) 	= [3gram] 0.0435238 [ -1.36127 ]
+	p( detective | the ...) 	= [2gram] 1.21819e-05 [ -4.91428 ]
+	p( had | detective ...) 	= [2gram] 0.00236798 [ -2.62562 ]
+	p( arrested | had ...) 	= [2gram] 0.00020894 [ -3.67998 ]
+	p( for | arrested ...) 	= [2gram] 0.0334598 [ -1.47548 ]
+	p( the | for ...) 	= [3gram] 0.0601725 [ -1.2206 ]
+	p( recent | the ...) 	= [3gram] 0.000331942 [ -3.47894 ]
+	p( <unk> | recent ...) 	= [1gram] 0.00214374 [ -2.66883 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -40.2881 ppl= 754.608 ppl1= 1256.27
+
+the policeman knew which detective the suspect had arrested for the recent crime.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( policeman | the ...) 	= [3gram] 1.84332e-05 [ -4.7344 ]
+	p( knew | policeman ...) 	= [2gram] 0.000140407 [ -3.85261 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( detective | which ...) 	= [1gram] 2.82836e-06 [ -5.54847 ]
+	p( the | detective ...) 	= [2gram] 0.00203383 [ -2.69169 ]
+	p( suspect | the ...) 	= [2gram] 0.00013122 [ -3.882 ]
+	p( had | suspect ...) 	= [3gram] 0.018149 [ -1.74115 ]
+	p( arrested | had ...) 	= [2gram] 0.000177227 [ -3.75147 ]
+	p( for | arrested ...) 	= [2gram] 0.0334598 [ -1.47548 ]
+	p( the | for ...) 	= [3gram] 0.0601725 [ -1.2206 ]
+	p( recent | the ...) 	= [3gram] 0.000331942 [ -3.47894 ]
+	p( <unk> | recent ...) 	= [1gram] 0.00214374 [ -2.66883 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -40.3405 ppl= 761.141 ppl1= 1267.99
+
+the priest knew which demon the exorcist had expelled with a cross.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( priest | the ...) 	= [3gram] 3.53549e-05 [ -4.45155 ]
+	p( knew | priest ...) 	= [2gram] 0.000316984 [ -3.49896 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( demon | which ...) 	= [1gram] 1.31575e-06 [ -5.88083 ]
+	p( the | demon ...) 	= [2gram] 0.00235411 [ -2.62817 ]
+	p( exorcist | the ...) 	= [2gram] 6.54885e-06 [ -5.18384 ]
+	p( had | exorcist ...) 	= [1gram] 0.00071355 [ -3.14658 ]
+	p( expelled | had ...) 	= [2gram] 4.42863e-05 [ -4.35373 ]
+	p( with | expelled ...) 	= [2gram] 0.0021155 [ -2.67459 ]
+	p( a | with ...) 	= [3gram] 0.0537331 [ -1.26976 ]
+	p( <unk> | a ...) 	= [1gram] 0.000374416 [ -3.42665 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -41.8095 ppl= 1644.82 ppl1= 3048.79
+
+the priest knew which exorcist the demon had expelled with a cross.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( priest | the ...) 	= [3gram] 3.53549e-05 [ -4.45155 ]
+	p( knew | priest ...) 	= [2gram] 0.000316984 [ -3.49896 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( exorcist | which ...) 	= [1gram] 2.32063e-07 [ -6.63439 ]
+	p( the | exorcist ...) 	= [2gram] 0.00670845 [ -2.17338 ]
+	p( demon | the ...) 	= [2gram] 2.74023e-05 [ -4.56221 ]
+	p( had | demon ...) 	= [2gram] 0.00121551 [ -2.91524 ]
+	p( expelled | had ...) 	= [2gram] 4.39121e-05 [ -4.35742 ]
+	p( with | expelled ...) 	= [2gram] 0.0021155 [ -2.67459 ]
+	p( a | with ...) 	= [3gram] 0.0537331 [ -1.26976 ]
+	p( <unk> | a ...) 	= [1gram] 0.000374416 [ -3.42665 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -41.259 ppl= 1492.01 ppl1= 2743.17
+
+jack observed which passenger the conductor had removed from the train.
+	p( jack | <s> ) 	= [2gram] 9.01633e-05 [ -4.04497 ]
+	p( observed | jack ...) 	= [1gram] 1.57368e-05 [ -4.80308 ]
+	p( which | observed ...) 	= [2gram] 0.000412971 [ -3.38408 ]
+	p( passenger | which ...) 	= [2gram] 6.37531e-05 [ -4.1955 ]
+	p( the | passenger ...) 	= [2gram] 0.00158541 [ -2.79986 ]
+	p( conductor | the ...) 	= [2gram] 4.83191e-05 [ -4.31588 ]
+	p( had | conductor ...) 	= [2gram] 0.00182419 [ -2.73893 ]
+	p( removed | had ...) 	= [2gram] 0.000219415 [ -3.65873 ]
+	p( from | removed ...) 	= [3gram] 0.117712 [ -0.92918 ]
+	p( the | from ...) 	= [4gram] 0.290611 [ -0.536688 ]
+	p( <unk> | the ...) 	= [1gram] 0.000310413 [ -3.50806 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -36.2694 ppl= 1053.06 ppl1= 1982.54
+
+jack observed which conductor the passenger had removed from the train.
+	p( jack | <s> ) 	= [2gram] 9.01633e-05 [ -4.04497 ]
+	p( observed | jack ...) 	= [1gram] 1.57368e-05 [ -4.80308 ]
+	p( which | observed ...) 	= [2gram] 0.000412971 [ -3.38408 ]
+	p( conductor | which ...) 	= [1gram] 2.24121e-06 [ -5.64952 ]
+	p( the | conductor ...) 	= [2gram] 0.00379679 [ -2.42058 ]
+	p( passenger | the ...) 	= [2gram] 0.000115634 [ -3.93692 ]
+	p( had | passenger ...) 	= [3gram] 0.00266366 [ -2.57452 ]
+	p( removed | had ...) 	= [2gram] 0.00018073 [ -3.74297 ]
+	p( from | removed ...) 	= [3gram] 0.117712 [ -0.92918 ]
+	p( the | from ...) 	= [4gram] 0.290611 [ -0.536688 ]
+	p( <unk> | the ...) 	= [1gram] 0.000310413 [ -3.50806 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -36.885 ppl= 1185.1 ppl1= 2255.2
+
+teresa knew which neighbor the parrot had bitten at the block party.
+	p( teresa | <s> ) 	= [2gram] 1.07518e-05 [ -4.96852 ]
+	p( knew | teresa ...) 	= [1gram] 3.06265e-05 [ -4.5139 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( neighbor | which ...) 	= [2gram] 5.40062e-06 [ -5.26756 ]
+	p( the | neighbor ...) 	= [2gram] 0.0029218 [ -2.53435 ]
+	p( parrot | the ...) 	= [2gram] 8.87897e-06 [ -5.05164 ]
+	p( had | parrot ...) 	= [2gram] 0.00126431 [ -2.89815 ]
+	p( bitten | had ...) 	= [2gram] 2.64628e-05 [ -4.57736 ]
+	p( at | bitten ...) 	= [2gram] 0.00278952 [ -2.55447 ]
+	p( the | at ...) 	= [2gram] 0.150215 [ -0.823286 ]
+	p( block | the ...) 	= [3gram] 4.1755e-05 [ -4.37929 ]
+	p( <unk> | block ...) 	= [1gram] 0.00133428 [ -2.87475 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -44.5756 ppl= 2684.68 ppl1= 5183.63
+
+teresa knew which parrot the neighbor had bitten at the block party.
+	p( teresa | <s> ) 	= [2gram] 1.07518e-05 [ -4.96852 ]
+	p( knew | teresa ...) 	= [1gram] 3.06265e-05 [ -4.5139 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( parrot | which ...) 	= [1gram] 2.47807e-06 [ -5.60589 ]
+	p( the | parrot ...) 	= [2gram] 0.0272947 [ -1.56392 ]
+	p( neighbor | the ...) 	= [2gram] 1.95597e-05 [ -4.70864 ]
+	p( had | neighbor ...) 	= [2gram] 0.00409206 [ -2.38806 ]
+	p( bitten | had ...) 	= [2gram] 2.42339e-05 [ -4.61558 ]
+	p( at | bitten ...) 	= [2gram] 0.00278952 [ -2.55447 ]
+	p( the | at ...) 	= [2gram] 0.150215 [ -0.823286 ]
+	p( block | the ...) 	= [3gram] 4.1755e-05 [ -4.37929 ]
+	p( <unk> | block ...) 	= [1gram] 0.00133428 [ -2.87475 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -43.1286 ppl= 2077.72 ppl1= 3926.93
+
+the art critic identified which model the artist had drawn in the studio.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( art | the ...) 	= [3gram] 0.00033612 [ -3.47351 ]
+	p( critic | art ...) 	= [2gram] 0.000803287 [ -3.09513 ]
+	p( identified | critic ...) 	= [1gram] 2.36257e-05 [ -4.62662 ]
+	p( which | identified ...) 	= [2gram] 0.00160939 [ -2.79334 ]
+	p( model | which ...) 	= [2gram] 0.000292751 [ -3.5335 ]
+	p( the | model ...) 	= [2gram] 0.00421274 [ -2.37544 ]
+	p( artist | the ...) 	= [2gram] 5.16227e-05 [ -4.28716 ]
+	p( had | artist ...) 	= [3gram] 0.00219484 [ -2.6586 ]
+	p( drawn | had ...) 	= [2gram] 0.000571155 [ -3.24325 ]
+	p( in | drawn ...) 	= [3gram] 0.0181196 [ -1.74185 ]
+	p( the | in ...) 	= [3gram] 0.175364 [ -0.75606 ]
+	p( <unk> | the ...) 	= [1gram] 0.000172326 [ -3.76365 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -38.8651 ppl= 597.145 ppl1= 976.393
+
+the art critic identified which artist the model had drawn in the studio.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( art | the ...) 	= [3gram] 0.00033612 [ -3.47351 ]
+	p( critic | art ...) 	= [2gram] 0.000803287 [ -3.09513 ]
+	p( identified | critic ...) 	= [1gram] 2.36257e-05 [ -4.62662 ]
+	p( which | identified ...) 	= [2gram] 0.00160939 [ -2.79334 ]
+	p( artist | which ...) 	= [2gram] 8.78887e-06 [ -5.05607 ]
+	p( the | artist ...) 	= [2gram] 0.00234075 [ -2.63065 ]
+	p( model | the ...) 	= [2gram] 0.000234549 [ -3.62977 ]
+	p( had | model ...) 	= [2gram] 0.000960936 [ -3.01731 ]
+	p( drawn | had ...) 	= [2gram] 0.000474061 [ -3.32417 ]
+	p( in | drawn ...) 	= [3gram] 0.0181196 [ -1.74185 ]
+	p( the | in ...) 	= [3gram] 0.175364 [ -0.75606 ]
+	p( <unk> | the ...) 	= [1gram] 0.000172326 [ -3.76365 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -40.4251 ppl= 771.808 ppl1= 1287.14
+
+the cotton farmer wondered which master the slave had escaped by running through the woods.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( cotton | the ...) 	= [3gram] 8.30217e-06 [ -5.08081 ]
+	p( farmer | cotton ...) 	= [2gram] 0.000963366 [ -3.01621 ]
+	p( wondered | farmer ...) 	= [1gram] 4.26619e-06 [ -5.36996 ]
+	p( which | wondered ...) 	= [2gram] 0.00329052 [ -2.48273 ]
+	p( master | which ...) 	= [2gram] 2.61542e-05 [ -4.58246 ]
+	p( the | master ...) 	= [2gram] 0.0153581 [ -1.81366 ]
+	p( slave | the ...) 	= [2gram] 3.33714e-05 [ -4.47662 ]
+	p( had | slave ...) 	= [2gram] 0.000483841 [ -3.3153 ]
+	p( escaped | had ...) 	= [2gram] 0.00029896 [ -3.52439 ]
+	p( by | escaped ...) 	= [3gram] 0.00935005 [ -2.02919 ]
+	p( running | by ...) 	= [3gram] 0.00872453 [ -2.05926 ]
+	p( through | running ...) 	= [3gram] 0.00847729 [ -2.07174 ]
+	p( the | through ...) 	= [4gram] 0.32804 [ -0.484073 ]
+	p( <unk> | the ...) 	= [1gram] 0.000406692 [ -3.39073 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -46.2142 ppl= 773.367 ppl1= 1204.88
+
+the cotton farmer wondered which slave the master had escaped by running through the woods.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( cotton | the ...) 	= [3gram] 8.30217e-06 [ -5.08081 ]
+	p( farmer | cotton ...) 	= [2gram] 0.000963366 [ -3.01621 ]
+	p( wondered | farmer ...) 	= [1gram] 4.26619e-06 [ -5.36996 ]
+	p( which | wondered ...) 	= [2gram] 0.00329052 [ -2.48273 ]
+	p( slave | which ...) 	= [2gram] 6.15539e-06 [ -5.21074 ]
+	p( the | slave ...) 	= [2gram] 0.00195532 [ -2.70878 ]
+	p( master | the ...) 	= [2gram] 0.00026006 [ -3.58493 ]
+	p( had | master ...) 	= [2gram] 0.000801736 [ -3.09597 ]
+	p( escaped | had ...) 	= [2gram] 0.000302042 [ -3.51993 ]
+	p( by | escaped ...) 	= [3gram] 0.00935005 [ -2.02919 ]
+	p( running | by ...) 	= [3gram] 0.00872453 [ -2.05926 ]
+	p( through | running ...) 	= [3gram] 0.00847729 [ -2.07174 ]
+	p( the | through ...) 	= [4gram] 0.32804 [ -0.484073 ]
+	p( <unk> | the ...) 	= [1gram] 0.000406692 [ -3.39073 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -46.6221 ppl= 820.126 ppl1= 1282.74
+
+the farmhand recorded which goats the breeder had sold at the market.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( farmhand | the ...) 	= [1gram] 8.22788e-09 [ -8.08471 ]
+	p( recorded | farmhand ...) 	= [1gram] 5.41184e-05 [ -4.26665 ]
+	p( which | recorded ...) 	= [2gram] 0.000452225 [ -3.34465 ]
+	p( goats | which ...) 	= [1gram] 1.16141e-06 [ -5.93502 ]
+	p( the | goats ...) 	= [2gram] 0.00290669 [ -2.5366 ]
+	p( breeder | the ...) 	= [2gram] 3.00569e-06 [ -5.52206 ]
+	p( had | breeder ...) 	= [2gram] 0.00200817 [ -2.6972 ]
+	p( sold | had ...) 	= [2gram] 0.000408547 [ -3.38876 ]
+	p( at | sold ...) 	= [3gram] 0.0234396 [ -1.63005 ]
+	p( the | at ...) 	= [3gram] 0.176319 [ -0.753701 ]
+	p( <unk> | the ...) 	= [1gram] 0.000183085 [ -3.73735 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -44.4138 ppl= 2608.82 ppl1= 5025.13
+
+the farmhand recorded which breeder the goats had sold at the market.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( farmhand | the ...) 	= [1gram] 8.22788e-09 [ -8.08471 ]
+	p( recorded | farmhand ...) 	= [1gram] 5.41184e-05 [ -4.26665 ]
+	p( which | recorded ...) 	= [2gram] 0.000452225 [ -3.34465 ]
+	p( breeder | which ...) 	= [1gram] 5.07647e-07 [ -6.29444 ]
+	p( the | breeder ...) 	= [2gram] 0.00297245 [ -2.52689 ]
+	p( goats | the ...) 	= [2gram] 8.62468e-06 [ -5.06426 ]
+	p( had | goats ...) 	= [2gram] 0.00172212 [ -2.76394 ]
+	p( sold | had ...) 	= [2gram] 0.000380769 [ -3.41934 ]
+	p( at | sold ...) 	= [3gram] 0.0234396 [ -1.63005 ]
+	p( the | at ...) 	= [3gram] 0.176319 [ -0.753701 ]
+	p( <unk> | the ...) 	= [1gram] 0.000183085 [ -3.73735 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -44.403 ppl= 2603.85 ppl1= 5014.76
+
+the four-year-old knew which hero the dragon had eaten for dinner last night.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( four-year-old | the ...) 	= [3gram] 2.52126e-06 [ -5.59838 ]
+	p( knew | four-year-old ...) 	= [1gram] 4.12613e-05 [ -4.38446 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( hero | which ...) 	= [2gram] 5.27557e-05 [ -4.27773 ]
+	p( the | hero ...) 	= [2gram] 0.00275638 [ -2.55966 ]
+	p( dragon | the ...) 	= [2gram] 0.000134706 [ -3.87061 ]
+	p( had | dragon ...) 	= [2gram] 0.000759366 [ -3.11955 ]
+	p( eaten | had ...) 	= [2gram] 0.000193513 [ -3.71329 ]
+	p( for | eaten ...) 	= [2gram] 0.0146815 [ -1.83323 ]
+	p( dinner | for ...) 	= [3gram] 0.00141536 [ -2.84913 ]
+	p( last | dinner ...) 	= [3gram] 0.00531628 [ -2.27439 ]
+	p( <unk> | last ...) 	= [1gram] 0.000461337 [ -3.33598 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -43.1113 ppl= 1200.55 ppl1= 2071.36
+
+the four-year-old knew which dragon the hero had eaten for dinner last night.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( four-year-old | the ...) 	= [3gram] 2.52126e-06 [ -5.59838 ]
+	p( knew | four-year-old ...) 	= [1gram] 4.12613e-05 [ -4.38446 ]
+	p( which | knew ...) 	= [2gram] 0.00166779 [ -2.77786 ]
+	p( dragon | which ...) 	= [2gram] 1.24591e-05 [ -4.90451 ]
+	p( the | dragon ...) 	= [2gram] 0.00259508 [ -2.58585 ]
+	p( hero | the ...) 	= [2gram] 8.69911e-05 [ -4.06052 ]
+	p( had | hero ...) 	= [2gram] 0.00062152 [ -3.20654 ]
+	p( eaten | had ...) 	= [2gram] 0.000200121 [ -3.69871 ]
+	p( for | eaten ...) 	= [2gram] 0.0146815 [ -1.83323 ]
+	p( dinner | for ...) 	= [3gram] 0.00141536 [ -2.84913 ]
+	p( last | dinner ...) 	= [3gram] 0.00531628 [ -2.27439 ]
+	p( <unk> | last ...) 	= [1gram] 0.000461337 [ -3.33598 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -44.0266 ppl= 1395.59 ppl1= 2435.91
+
+the security guard investigated which patrolman the loiterer had evaded for three hours.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( security | the ...) 	= [3gram] 0.00221782 [ -2.65407 ]
+	p( guard | security ...) 	= [4gram] 0.0083529 [ -2.07816 ]
+	p( investigated | guard ...) 	= [1gram] 4.69455e-06 [ -5.32841 ]
+	p( which | investigated ...) 	= [2gram] 0.000434158 [ -3.36235 ]
+	p( patrolman | which ...) 	= [1gram] 1.87015e-07 [ -6.72812 ]
+	p( the | patrolman ...) 	= [1gram] 0.00327701 [ -2.48452 ]
+	p( loiterer | the ...) 	= [2gram] 3.36974e-07 [ -6.4724 ]
+	p( had | loiterer ...) 	= [1gram] 0.00133761 [ -2.87367 ]
+	p( evaded | had ...) 	= [2gram] 3.39281e-05 [ -4.46944 ]
+	p( for | evaded ...) 	= [1gram] 0.0019296 [ -2.71453 ]
+	p( three | for ...) 	= [2gram] 0.00364381 [ -2.43844 ]
+	p( <unk> | three ...) 	= [1gram] 0.000386714 [ -3.41261 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -47.5338 ppl= 2484.68 ppl1= 4533.61
+
+the security guard investigated which loiterer the patrolman had evaded for three hours.
+	p( the | <s> ) 	= [2gram] 0.0687771 [ -1.16256 ]
+	p( security | the ...) 	= [3gram] 0.00221782 [ -2.65407 ]
+	p( guard | security ...) 	= [4gram] 0.0083529 [ -2.07816 ]
+	p( investigated | guard ...) 	= [1gram] 4.69455e-06 [ -5.32841 ]
+	p( which | investigated ...) 	= [2gram] 0.000434158 [ -3.36235 ]
+	p( loiterer | which ...) 	= [1gram] 1.45238e-09 [ -8.83792 ]
+	p( the | loiterer ...) 	= [1gram] 0.00474959 [ -2.32334 ]
+	p( patrolman | the ...) 	= [2gram] 7.56394e-07 [ -6.12125 ]
+	p( had | patrolman ...) 	= [2gram] 0.00151444 [ -2.81975 ]
+	p( evaded | had ...) 	= [2gram] 3.34293e-05 [ -4.47587 ]
+	p( for | evaded ...) 	= [1gram] 0.0019296 [ -2.71453 ]
+	p( three | for ...) 	= [2gram] 0.00364381 [ -2.43844 ]
+	p( <unk> | three ...) 	= [1gram] 0.000386714 [ -3.41261 ]
+	p( </s> | <unk> ...) 	= [1gram] 0.0442105 [ -1.35448 ]
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -49.0837 ppl= 3206.14 ppl1= 5965.86
+
+file sandcastle_sents.txt: 240 sentences, 3026 words, 0 OOVs
+0 zeroprobs, logprob= -10413.5 ppl= 1543.34 ppl1= 2762.78

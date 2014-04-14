@@ -1,0 +1,480 @@
+the tenant inquired which neighbor the landlord had evicted from the apartment complex.
+the tenant inquired which exterminator the landlord had evicted from the apartment complex.
+the exterminator inquired which neighbor the landlord had evicted from the apartment complex.
+the neighbor inquired which exterminator the landlord had evicted from the apartment complex.
+the tenant inquired which exterminator the landlord had hired for the job.
+the tenant inquired which neighbor the landlord had hired for the job.
+the neighbor inquired which exterminator the landlord had hired for the job.
+the exterminator inquired which neighbor the landlord had hired for the job.
+the general heard which terrorist the corporal had captured during the stakeout.
+the general heard which comrade the corporal had captured during the stakeout.
+the comrade heard which terrorist the corporal had captured during the stakeout.
+the terrorist heard which comrade the corporal had captured during the stakeout.
+the general heard which comrade the corporal had promoted in the army.
+the general heard which terrorist the corporal had promoted in the army.
+the terrorist heard which comrade the corporal had promoted in the army.
+the comrade heard which terrorist the corporal had promoted in the army.
+the vice principal saw which rascal the teacher had punished with a detention note.
+the vice principal saw which nerd the teacher had punished with a detention note.
+the nerd saw which rascal the teacher had punished with a detention note.
+the rascal saw which nerd the teacher had punished with a detention note.
+the vice principal saw which nerd the teacher had praised in the classroom.
+the vice principal saw which rascal the teacher had praised in the classroom.
+the rascal saw which nerd the teacher had praised in the classroom.
+the nerd saw which rascal the teacher had praised in the classroom.
+the journalist wrote which foodie the chef had served at the restaurant.
+the journalist wrote which waiter the chef had served at the restaurant.
+the waiter wrote which foodie the chef had served at the restaurant.
+the foodie wrote which waiter the chef had served at the restaurant.
+the journalist wrote which waiter the chef had yelled at for being incompetent.
+the journalist wrote which foodie the chef had yelled at for being incompetent.
+the foodie wrote which waiter the chef had yelled at for being incompetent.
+the waiter wrote which foodie the chef had yelled at for being incompetent.
+the secretary forgot which addict the therapist had treated at the clinic.
+the secretary forgot which doctor the therapist had treated at the clinic.
+the doctor forgot which addict the therapist had treated at the clinic.
+the addict forgot which doctor the therapist had treated at the clinic.
+the secretary forgot which doctor the therapist had recommended for him to go to.
+the secretary forgot which addict the therapist had recommended for him to go to.
+the addict forgot which doctor the therapist had recommended for him to go to.
+the doctor forgot which addict the therapist had recommended for him to go to.
+the babysitter learned which baby the mother had adopted several weeks ago.
+the babysitter learned which teenager the mother had adopted several weeks ago.
+the teenager learned which baby the mother had adopted several weeks ago.
+the baby learned which teenager the mother had adopted several weeks ago.
+the babysitter learned which teenager the mother had punished for being late.
+the babysitter learned which baby the mother had punished for being late.
+the baby learned which teenager the mother had punished for being late.
+the teenager learned which baby the mother had punished for being late.
+the executive revealed which clerk the manager had promoted to a higher position.
+the executive revealed which customer the manager had promoted to a higher position.
+the customer revealed which clerk the manager had promoted to a higher position.
+the clerk revealed which customer the manager had promoted to a higher position.
+the administrator heard which patient the doctor had treated in the hospital room.
+the administrator heard which nurse the doctor had treated in the hospital room.
+the nurse heard which patient the doctor had treated in the hospital room.
+the patient heard which nurse the doctor had treated in the hospital room.
+the administrator heard which nurse the doctor had hired to assist him.
+the administrator heard which patient the doctor had hired to assist him.
+the patient heard which nurse the doctor had hired to assist him.
+the nurse heard which patient the doctor had hired to assist him.
+the author revealed which ogre the hero had slain in the cave.
+the author revealed which maiden the hero had slain in the cave.
+the maiden revealed which ogre the hero had slain in the cave.
+the ogre revealed which maiden the hero had slain in the cave.
+the author revealed which maiden the hero had rescued after the fight.
+the author revealed which ogre the hero had rescued after the fight.
+the ogre revealed which maiden the hero had rescued after the fight.
+the maiden revealed which ogre the hero had rescued after the fight.
+the bartender knew which troublemakers the regulars had fought after getting drunk.
+the bartender knew which barmaids the regulars had fought after getting drunk.
+the barmaids knew which troublemakers the regulars had fought after getting drunk.
+the troublemakers knew which barmaids the regulars had fought after getting drunk.
+the bartender knew which barmaids the regulars had tipped extra money to.
+the bartender knew which troublemakers the regulars had tipped extra money to.
+the troublemakers knew which barmaids the regulars had tipped extra money to.
+the barmaids knew which troublemakers the regulars had tipped extra money to.
+the businessman overheard which libelist the executive had sued at the court.
+the businessman overheard which clerk the executive had sued at the court.
+the clerk overheard which libelist the executive had sued at the court.
+the libelist overheard which clerk the executive had sued at the court.
+the businessman overheard which clerk the executive had promoted in the company.
+the businessman overheard which libelist the executive had promoted in the company.
+the libelist overheard which clerk the executive had promoted in the company.
+the clerk overheard which libelist the executive had promoted in the company.
+the butler speculated which guests the master had invited to his manor.
+the butler speculated which servants the master had invited to his manor.
+the servants speculated which guests the master had invited to his manor.
+the guests speculated which servants the master had invited to his manor.
+the butler speculated which servants the master had fired from the job.
+the butler speculated which guests the master had fired from the job.
+the guests speculated which servants the master had fired from the job.
+the servants speculated which guests the master had fired from the job.
+the comic book artist announced which sidekick the superhero had chosen as his partner.
+the comic book artist announced which villain the superhero had chosen as his partner.
+the villain announced which sidekick the superhero had chosen as his partner.
+the sidekick announced which villain the superhero had chosen as his partner.
+the department chair stated which cheater the professor had caught during the exam.
+the department chair stated which proctor the professor had caught during the exam.
+the proctor stated which cheater the professor had caught during the exam.
+the cheater stated which proctor the professor had caught during the exam.
+the department chair stated which proctor the professor had used for the final test.
+the department chair stated which cheater the professor had used for the final test.
+the cheater stated which proctor the professor had used for the final test.
+the proctor stated which cheater the professor had used for the final test.
+the deputy deduced which hooligan the gangster had recruited for the assignment.
+the deputy deduced which victim the gangster had recruited for the assignment.
+the victim deduced which hooligan the gangster had recruited for the assignment.
+the hooligan deduced which victim the gangster had recruited for the assignment.
+the deputy deduced which victim the gangster had robbed in the alleyway.
+the deputy deduced which hooligan the gangster had robbed in the alleyway.
+the hooligan deduced which victim the gangster had robbed in the alleyway.
+the victim deduced which hooligan the gangster had robbed in the alleyway.
+the fairy princess described which demons the sorceress had summoned with her spell.
+the fairy princess described which newts the sorceress had summoned with her spell.
+the newts described which demons the sorceress had summoned with her spell.
+the demons described which newts the sorceress had summoned with her spell.
+the fairy princess described which newts the sorceress had used in the potion.
+the fairy princess described which demons the sorceress had used in the potion.
+the demons described which newts the sorceress had used in the potion.
+the newts described which demons the sorceress had used in the potion.
+the journalist reported which opponent the politician had defeated in the election.
+the journalist reported which voters the politician had defeated in the election.
+the voters reported which opponent the politician had defeated in the election.
+the opponent reported which voters the politician had defeated in the election.
+the journalist reported which voters the politician had bribed with his money.
+the journalist reported which opponent the politician had bribed with his money.
+the opponent reported which voters the politician had bribed with his money.
+the voters reported which opponent the politician had bribed with his money.
+the paleoanthropologist discovered which goddess the caveman had worshipped with his murals.
+the paleoanthropologist discovered which animal the caveman had worshipped with his murals.
+the animal discovered which goddess the caveman had worshipped with his murals.
+the goddess discovered which animal the caveman had worshipped with his murals.
+the paleoanthropologist discovered which animal the caveman had eaten during the winter.
+the paleoanthropologist discovered which goddess the caveman had eaten during the winter.
+the goddess discovered which animal the caveman had eaten during the winter.
+the animal discovered which goddess the caveman had eaten during the winter.
+the reporter publicized which golddigger the millionaire had married the previous week.
+the reporter publicized which entrepreneur the millionaire had married the previous week.
+the entrepreneur publicized which golddigger the millionaire had married the previous week.
+the golddigger publicized which entrepreneur the millionaire had married the previous week.
+the reporter publicized which entrepreneur the millionaire had invested in for the fiscal year.
+the reporter publicized which golddigger the millionaire had invested in for the fiscal year.
+the golddigger publicized which entrepreneur the millionaire had invested in for the fiscal year.
+the entrepreneur publicized which golddigger the millionaire had invested in for the fiscal year.
+the secret serviceman concealed which assassin the agent had shot in the chest.
+the secret serviceman concealed which ex-president the agent had shot in the chest.
+the ex-president concealed which assassin the agent had shot in the chest.
+the assassin concealed which ex-president the agent had shot in the chest.
+the secret serviceman concealed which ex-president the agent had protected from the bullet.
+the secret serviceman concealed which assassin the agent had protected from the bullet.
+the assassin concealed which ex-president the agent had protected from the bullet.
+the ex-president concealed which assassin the agent had protected from the bullet.
+the storyteller explained which princess the prince had saved with his bravery.
+the storyteller explained which dragon the prince had saved with his bravery.
+the dragon explained which princess the prince had saved with his bravery.
+the princess explained which dragon the prince had saved with his bravery.
+the storyteller explained which dragon the prince had slain with his sword.
+the storyteller explained which princess the prince had slain with his sword.
+the princess explained which dragon the prince had slain with his sword.
+the dragon explained which princess the prince had slain with his sword.
+the swim team recalled which champion the swimmer had beaten during the race.
+the swim team recalled which lifeguard the swimmer had beaten during the race.
+the lifeguard recalled which champion the swimmer had beaten during the race.
+the champion recalled which lifeguard the swimmer had beaten during the race.
+the swim team recalled which lifeguard the swimmer had saved by giving cpr.
+the swim team recalled which champion the swimmer had saved by giving cpr.
+the champion recalled which lifeguard the swimmer had saved by giving cpr.
+the lifeguard recalled which champion the swimmer had saved by giving cpr.
+the teacher remembered which delinquent the principal had punished after the scuffle.
+the teacher remembered which overacheiver the principal had punished after the scuffle.
+the overacheiver remembered which delinquent the principal had punished after the scuffle.
+the delinquent remembered which overacheiver the principal had punished after the scuffle.
+the teacher remembered which overacheiver the principal had praised for good grades.
+the teacher remembered which delinquent the principal had praised for good grades.
+the delinquent remembered which overacheiver the principal had praised for good grades.
+the overacheiver remembered which delinquent the principal had praised for good grades.
+the team manager knew which athlete the officials had penalized during the match.
+the team manager knew which umpire the officials had penalized during the match.
+the umpire knew which athlete the officials had penalized during the match.
+the athlete knew which umpire the officials had penalized during the match.
+the team manager knew which umpire the officials had selected to be at the game.
+the team manager knew which athlete the officials had selected to be at the game.
+the athlete knew which umpire the officials had selected to be at the game.
+the umpire knew which athlete the officials had selected to be at the game.
+the pharmacist realized which customer the physician had helped in the examination room.
+the pharmacist realized which specialist the physician had helped in the examination room.
+the specialist realized which customer the physician had helped in the examination room.
+the customer realized which specialist the physician had helped in the examination room.
+the pharmacist realized which specialist the physician had recommended for further analysis.
+the pharmacist realized which customer the physician had recommended for further analysis.
+the customer realized which specialist the physician had recommended for further analysis.
+the specialist realized which customer the physician had recommended for further analysis.
+the woman understood which pharmacist the psychiatrist had recommended to take a visit to.
+the woman understood which addict the psychiatrist had recommended to take a visit to.
+the addict understood which pharmacist the psychiatrist had recommended to take a visit to.
+the pharmicist understood which addict the psychiatrist had recommended to take a visit to.
+the woman understood which addict the psychiatrist had treated for several months.
+the woman understood which pharmacist the psychiatrist had treated for several months.
+the pharmicist understood which addict the psychiatrist had treated for several months.
+the addict understood which pharmacist the psychiatrist had treated for several months.
+the reporter mentioned which believer the psychic had read the future for.
+the reporter mentioned which skeptic the psychic had read the future for.
+the skeptic mentioned which believer the psychic had read the future for.
+the believer mentioned which skeptic the psychic had read the future for.
+the reporter mentioned which skeptic the psychic had convinced with her act.
+the reporter mentioned which believer the psychic had convinced with her act.
+the believer mentioned which skeptic the psychic had convinced with her act.
+the skeptic mentioned which believer the psychic had convinced with her act.
+the editor knew which cameraman the anthropologist had used for the expedition.
+the editor knew which tribesman the anthropologist had used for the expedition.
+the tribesman knew which cameraman the anthropologist had used for the expedition.
+the cameraman knew which tribesman the anthropologist had used for the expedition.
+the editor knew which tribesman the anthropologist had studied for the last year.
+the editor knew which cameraman the anthropologist had studied for the last year.
+the cameraman knew which tribesman the anthropologist had studied for the last year.
+the tribesman knew which cameraman the anthropologist had studied for the last year.
+the intern heard which surgeon the dentist had recommended for a follow-up.
+the intern heard which patient the dentist had recommended for a follow-up.
+the patient heard which surgeon the dentist had recommended for a follow-up.
+the surgeon heard which patient the dentist had recommended for a follow-up.
+the intern heard which patient the dentist had injured during the check-up.
+the intern heard which surgeon the dentist had injured during the check-up.
+the surgeon heard which patient the dentist had injured during the check-up.
+the patient heard which surgeon the dentist had injured during the check-up.
+the king saw which damsel the superhero had saved from the fire.
+the king saw which villain the superhero had saved from the fire.
+the villain saw which damsel the superhero had saved from the fire.
+the damsel saw which villain the superhero had saved from the fire.
+the king saw which villain the superhero had defeated in the battle.
+the king saw which damsel the superhero had defeated in the battle.
+the damsel saw which villain the superhero had defeated in the battle.
+the villain saw which damsel the superhero had defeated in the battle.
+the principal observed which perfectionist the teacher had praised for good work.
+the principal observed which troublemaker the teacher had praised for good work.
+the troublemaker observed which perfectionist the teacher had praised for good work.
+the perfectionist observed which troublemaker the teacher had praised for good work.
+the principal observed which troublemaker the teacher had punished for starting a fight.
+the principal observed which perfectionist the teacher had punished for starting a fight.
+the perfectionist observed which troublemaker the teacher had punished for starting a fight.
+the troublemaker observed which perfectionist the teacher had punished for starting a fight.
+the regulars saw which patron the owner had served a beer to.
+the regulars saw which bartender the owner had served a beer to.
+the bartender saw which patron the owner had served a beer to.
+the patron saw which bartender the owner had served a beer to.
+the regulars saw which bartender the owner had fired from the position.
+the regulars saw which patron the owner had fired from the position.
+the patron saw which bartender the owner had fired from the position.
+the bartender saw which patron the owner had fired from the position.
+the bookie knew which jockey the horse had thrown during the tourney.
+the bookie knew which gambler the horse had thrown during the tourney.
+the gambler knew which jockey the horse had thrown during the tourney.
+the jockey knew which gambler the horse had thrown during the tourney.
+the school nurse knew which dentist the kid had visited the previous day.
+the school nurse knew which administrator the kid had visited the previous day.
+the administrator knew which dentist the kid had visited the previous day.
+the dentist knew which administrator the kid had visited the previous day.
+the guide asked which pickpocket the tourist had caught trying to steal.
+the guide asked which villager the tourist had caught trying to steal.
+the villager asked which pickpocket the tourist had caught trying to steal.
+the pickpocket asked which villager the tourist had caught trying to steal.
+the officer knew which boss the striker had targeted during the riot.
+the officer knew which activist the striker had targeted during the riot.
+the activist knew which boss the striker had targeted during the riot.
+the boss knew which activist the striker had targeted during the riot.
+the clubber explained which artists the dj had played at the club.
+the clubber explained which blogger the dj had played at the club.
+the blogger explained which artists the dj had played at the club.
+the artists explained which blogger the dj had played at the club.
+the classmate guessed which freshman the ta had dated the previous semester.
+the classmate guessed which lecturer the ta had dated the previous semester.
+the lecturer guessed which freshman the ta had dated the previous semester.
+the freshman guessed which lecturer the ta had dated the previous semester.
+the champion stated which wrestler the referee had disqualified from the match.
+the champion stated which announcer the referee had disqualified from the match.
+the announcer stated which wrestler the referee had disqualified from the match.
+the wrestler stated which announcer the referee had disqualified from the match.
+the aide stated which prisoner the guard had beaten in the jailhouse.
+the aide stated which diplomat the guard had beaten in the jailhouse.
+the diplomat stated which prisoner the guard had beaten in the jailhouse.
+the prisoner stated which diplomat the guard had beaten in the jailhouse.
+the executive revealed which customer the manager had helped on the phone.
+the executive revealed which clerk the manager had helped on the phone.
+the clerk revealed which customer the manager had helped on the phone.
+the customer revealed which clerk the manager had helped on the phone.
+the chief overheard which criminal the police had caught during the bust.
+the chief overheard which informant the police had caught during the bust.
+the informant overheard which criminal the police had caught during the bust.
+the criminal overheard which informant the police had caught during the bust.
+the employee heard which slacker the boss had fired for being lazy.
+the employee heard which go-getter the boss had fired for being lazy.
+the go-getter heard which slacker the boss had fired for being lazy.
+the slacker heard which go-getter the boss had fired for being lazy.
+the child observed which biologist the zookeeper had hired for the exhibit.
+the child observed which tourist the zookeeper had hired for the exhibit.
+the tourist observed which biologist the zookeeper had hired for the exhibit.
+the biologist observed which tourist the zookeeper had hired for the exhibit.
+the ceo guessed which employee the manager had fired for missing work.
+the ceo guessed which customer the manager had fired for missing work.
+the customer guessed which employee the manager had fired for missing work.
+the employee guessed which customer the manager had fired for missing work.
+the fan surmised which agent the actress had hired for the audition.
+the fan surmised which admirer the actress had hired for the audition.
+the admirer surmised which agent the actress had hired for the audition.
+the agent surmised which admirer the actress had hired for the audition.
+the anchorman reported which candidate the senator had defeated in the last election.
+the anchorman reported which supporter the senator had defeated in the last election.
+the supporter reported which candidate the senator had defeated in the last election.
+the candidate reported which supporter the senator had defeated in the last election.
+the announcer stated which rival the player had defeated during the game.
+the announcer stated which teammate the player had defeated during the game.
+the teammate stated which rival the player had defeated during the game.
+the rival stated which teammate the player had defeated during the game.
+the assistant verified which worker the employer had fired the previous month.
+the assistant verified which applicant the employer had fired the previous month.
+the applicant verified which worker the employer had fired the previous month.
+the worker verified which applicant the employer had fired the previous month.
+the beggar saw which leper the wiseman had cured with his healing.
+the beggar saw which prophet the wiseman had cured with his healing.
+the prophet saw which leper the wiseman had cured with his healing.
+the leper saw which prophet the wiseman had cured with his healing.
+the captain realized which stowaway the sailor had hidden in the cargo area.
+the captain realized which landlubber the sailor had hidden in the cargo area.
+the landlubber realized which stowaway the sailor had hidden in the cargo area.
+the stowaway realized which landlubber the sailor had hidden in the cargo area.
+the circus goers explained which child the clown had scared with his trick.
+the circus goers explained which juggler the clown had scared with his trick.
+the juggler explained which child the clown had scared with his trick.
+the child explained which juggler the clown had scared with his trick.
+the columnist publicized which stylist the supermodel had used for the fashion show.
+the columnist publicized which billionaire the supermodel had used for the fashion show.
+the billionaire publicized which stylist the supermodel had used for the fashion show.
+the stylist publicized which billionaire the supermodel had used for the fashion show.
+the correspondent reported which contestants the judges had chosen for the game show.
+the correspondent reported which spectators the judges had chosen for the game show.
+the spectators reported which contestants the judges had chosen for the game show.
+the contestants reported which spectators the judges had chosen for the game show.
+the editor published which orphan the philanthropist had adopted at a young age.
+the editor published which volunteer the philanthropist had adopted at a young age.
+the volunteer published which orphan the philanthropist had adopted at a young age.
+the orphan published which volunteer the philanthropist had adopted at a young age.
+the football fan heard which cheerleader the quarterback had dated during the semester.
+the football fan heard which linebacker the quarterback had dated during the semester.
+the linebacker heard which cheerleader the quarterback had dated during the semester.
+the cheerleader heard which linebacker the quarterback had dated during the semester.
+the general knew which activist the dictator had imprisoned during the trials.
+the general knew which supporter the dictator had imprisoned during the trials.
+the supporter knew which activist the dictator had imprisoned during the trials.
+the activist knew which supporter the dictator had imprisoned during the trials.
+the historian knew which queen the king had married in the palace.
+the historian knew which prince the king had married in the palace.
+the prince knew which queen the king had married in the palace.
+the queen knew which prince the king had married in the palace.
+the historian recorded which patriot the king had knighted during the ceremony.
+the historian recorded which traitor the king had knighted during the ceremony.
+the traitor recorded which patriot the king had knighted during the ceremony.
+the patriot recorded which traitor the king had knighted during the ceremony.
+the history major learned which mercenaries the emperor had employed to work for him.
+the history major learned which rebels the emperor had employed to work for him.
+the rebel learned which mercenaries the emperor had employed to work for him.
+the mercenaries learned which rebels the emperor had employed to work for him.
+the investigator confirmed which gunman the criminal had hired during the heist.
+the investigator confirmed which cop the criminal had hired during the heist.
+the cop confirmed which gunman the criminal had hired during the heist.
+the gunman confirmed which cop the criminal had hired during the heist.
+the manager guessed which client the technician had helped earlier that day.
+the manager guessed which intern the technician had helped earlier that day.
+the intern guessed which client the technician had helped earlier that day.
+the client guessed which intern the technician had helped earlier that day.
+the monk recalled which sinner the priest had forgiven during the morning mass.
+the monk recalled which cardinal the priest had forgiven during the morning mass.
+the cardinal recalled which sinner the priest had forgiven during the morning mass.
+the sinner recalled which cardinal the priest had forgiven during the morning mass.
+the movie buff speculated which actor the stuntman had replaced in the movie shot.
+the movie buff speculated which director the stuntman had replaced in the movie shot.
+the director speculated which actor the stuntman had replaced in the movie shot.
+the actor speculated which director the stuntman had replaced in the movie shot.
+the police woman recognized which lieutenant the officer had promoted to a higher rank.
+the police woman recognized which thief the officer had promoted to a higher rank.
+the theif recognized which lieutenant the officer had promoted to a higher rank.
+the lieutenant recognized which thief the officer had promoted to a higher rank.
+the politician forgot which voter the senator had bribed to help him win.
+the politician forgot which intern the senator had bribed to help him win.
+the intern forgot which voter the senator had bribed to help him win.
+the voter forgot which intern the senator had bribed to help him win.
+the priest mentioned which nonbeliever the nun had converted at the church.
+the priest mentioned which archbishop the nun had converted at the church.
+the archbishop mentioned which nonbeliever the nun had converted at the church.
+the nonbeliever mentioned which archbishop the nun had converted at the church.
+the priestess named which warrior the deity had blessed during the prayer ceremony.
+the priestess named which infidel the deity had blessed during the prayer ceremony.
+the infidel named which warrior the deity had blessed during the prayer ceremony.
+the warrior named which infidel the deity had blessed during the prayer ceremony.
+the principal forgot which parent the teacher had called to meet with.
+the principal forgot which student the teacher had called to meet with.
+the student forgot which parent the teacher had called to meet with.
+the parent forgot which student the teacher had called to meet with.
+the reviewer criticized which researchers the authors had cited in their paper.
+the reviewer criticized which participants the authors had cited in their paper.
+the participants criticized which researchers the authors had cited in their paper.
+the researchers criticized which participants the authors had cited in their paper.
+the roman asked which god the gladiator had prayed to before the battle.
+the roman asked which adversary the gladiator had prayed to before the battle.
+the adversary asked which god the gladiator had prayed to before the battle.
+the god asked which adversary the gladiator had prayed to before the battle.
+the screenwriter clarified which viewers the director had targeted with his movie.
+the screenwriter clarified which producers the director had targeted with his movie.
+the producer clarified which viewers the director had targeted with his movie.
+the viewers clarified which producers the director had targeted with his movie.
+the scribe recorded which loyalists the monarch had rewarded with a casket of jewels.
+the scribe recorded which rebels the monarch had rewarded with a casket of jewels.
+the rebels recorded which loyalists the monarch had rewarded with a casket of jewels.
+the loyalists recorded which rebels the monarch had rewarded with a casket of jewels.
+the secretary confirmed which illustrator the author had used for her book.
+the secretary confirmed which readers the author had used for her book.
+the reader confirmed which illustrator the author had used for her book.
+the illustrator confirmed which readers the author had used for her book.
+the secretary knew which manager the ceo had promoted in his company.
+the secretary knew which investor the ceo had promoted in his company.
+the investor knew which manager the ceo had promoted in his company.
+the manager knew which investor the ceo had promoted in his company.
+the sentry knew which guard the captain had promoted to a more important position.
+the sentry knew which townsperson the captain had promoted to a more important position.
+the townsperson knew which guard the captain had promoted to a more important position.
+the guard knew which townsperson the captain had promoted to a more important position.
+the snoop determined which bouncher the alcoholic had hit during a drunken rage.
+the snoop determined which psychologist the alcoholic had hit during a drunken rage.
+the psychologist determined which bouncer the alcoholic had hit during a drunken rage.
+the bouncer determined which psychologist the alcoholic had hit during a drunken rage.
+the spectator remembered which batter the catcher had tagged out during the first half.
+the spectator remembered which pitcher the catcher had tagged out during the first half.
+the pitcher remembered which batter the catcher had tagged out during the first half.
+the batter remembered which pitcher the catcher had tagged out during the first half.
+the stenographer recorded which defendant the judge had sentenced in the trial.
+the stenographer recorded which lawyer the judge had sentenced in the trial.
+the laywer recorded which defendant the judge had sentenced in the trial.
+the defendent recorded which lawyer the judge had sentenced in the trial.
+the woman indicated which bicyclist the driver had struck with his car.
+the woman indicated which passenger the driver had struck with his car.
+the passenger indicated which bicyclist the driver had struck with his car.
+the bicyclist indicated which passenger the driver had struck with his car.
+the coach learned which fan the referee had yelled at during the time-out.
+the coach learned which footballer the referee had yelled at during the time-out.
+the footballer learned which fan the referee had yelled at during the time-out.
+the fan learned which footballer the referee had yelled at during the time-out.
+the mother stated which pediatrician the nurse had recommended to regularily see.
+the mother stated which child the nurse had recommended to regularily see.
+the child stated which pediatrician the nurse had recommended to regularily see.
+the pediatrician stated which child the nurse had recommended to regularily see.
+the administrator recognized which pupil the tutor had taught math weekly to.
+the administrator recognized which advisor the tutor had taught math weekly to.
+the advisor recognized which pupil the tutor had taught math weekly to.
+the pupil recognized which advisor the tutor had taught math weekly to.
+the fashion designer guessed which techie the photographer had hired for the shoot.
+the fashion designer guessed which model the photographer had hired for the shoot.
+the model guessed which techie the photographer had hired for the shoot.
+the techie guessed which model the photographer had hired for the shoot.
+the deputy deduced which hooligan the guard had detained during the fight.
+the deputy deduced which victim the guard had detained during the fight.
+the victim deduced which hooligan the guard had detained during the fight.
+the hooligan deduced which victim the guard had detained during the fight.
+the journalist reported which politician the activist had supported during the elections.
+the journalist reported which voter the activist had supported during the elections.
+the voter reported which politician the activist had supported during the elections.
+the politician reported which voter the activist had supported during the elections.
+the street vendor saw which panhandler the shopkeeper had caught trying to steal.
+the street vendor saw which pedestrian the shopkeeper had caught trying to steal.
+the pedestrian saw which panhandler the shopkeeper had caught trying to steal.
+the panhandler saw which pedestrian the shopkeeper had caught trying to steal.
+the journalist knew which firefighter the mayor had awarded a medal to.
+the journalist knew which arsonist the mayor had awarded a medal to.
+the arsonist knew which firefighter the mayor had awarded a medal to.
+the firefighter knew which arsonist the mayor had awarded a medal to.
+the assistant knew which engineer the boss had promoted eariler that week.
+the assistant knew which client the boss had promoted eariler that week.
+the client knew which engineer the boss had promoted eariler that week.
+the engineer knew which client the boss had promoted eariler that week.
+the movie buff learned which actor the director had cast for the role.
+the movie buff learned which producer the director had cast for the role.
+the producer learned which actor the director had cast for the role.
+the actor learned which producer the director had cast for the role.
