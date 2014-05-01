@@ -1,0 +1,480 @@
+the firefighter reported which victim the paramedic had **saved**
+the firefighter reported which paramedic the victim had **saved**
+the firefighter reported which victim the paramedic in the ambulance had **saved**
+the firefighter reported which paramedic the victim in the ambulance had **saved**
+the firefighter reported which paramedic the victim had **thanked**
+the firefighter reported which victim the paramedic had **thanked**
+the firefighter reported which paramedic the victim in the ambulance had **thanked**
+the firefighter reported which victim the paramedic in the ambulance had **thanked**
+the historian documented which prince the assassin had **murdered**
+the historian documented which assassin the prince had **murdered**
+the historian documented which prince the assassin with long hair had **murdered**
+the historian documented which assassin the prince with long hair had **murdered**
+the historian documented which assassin the prince had **hired**
+the historian documented which prince the assassin had **hired**
+the historian documented which assassin the prince with long hair had **hired**
+the historian documented which prince the assassin with long hair had **hired**
+the naturalist observed which predators the deer had **avoided**
+the naturalist observed which deer the predators had **avoided**
+the naturalist observed which predators the deer in the forest had **avoided**
+the naturalist observed which deer the predators in the forest had **avoided**
+the naturalist observed which deer the predators had **eaten**
+the naturalist observed which predators the deer had **eaten**
+the naturalist observed which deer the predators in the forest had **eaten**
+the naturalist observed which predators the deer in the forest had **eaten**
+the restaurant owner forgot which customer the waitress had **served**
+the restaurant owner forgot which waitress the customer had **served**
+the restaurant owner forgot which customer the waitress at the bar had **served**
+the restaurant owner forgot which waitress the customer at the bar had **served**
+the restaurant owner forgot which waitress the customer had **tipped**
+the restaurant owner forgot which customer the waitress had **tipped**
+the restaurant owner forgot which waitress the customer at the bar had **tipped**
+the restaurant owner forgot which customer the waitress at the bar had **tipped**
+the housekeeper showed which mouse the cat had **killed**
+the housekeeper showed which cat the mouse had **killed**
+the housekeeper showed which mouse the cat with brown fur had **killed**
+the housekeeper showed which cat the mouse with brown fur had **killed**
+the housekeeper showed which cat the mouse had **escaped**
+the housekeeper showed which mouse the cat had **escaped**
+the housekeeper showed which cat the mouse with brown fur had **escaped**
+the housekeeper showed which mouse the cat with brown fur had **escaped**
+the nanny knew which housekeeper the billionaire had **hired**
+the nanny knew which billionaire the housekeeper had **hired**
+the nanny knew which housekeeper the billionaire with young children had **hired**
+the nanny knew which billionaire the housekeeper with young children had **hired**
+the nanny knew which billionaire the housekeeper had **worked**
+the nanny knew which housekeeper the billionaire had **worked**
+the nanny knew which billionaire the housekeeper with young children had **worked**
+the nanny knew which housekeeper the billionaire with young children had **worked**
+the researcher learned which whale the biologist had **studied**
+the researcher learned which biologist the whale had **studied**
+the researcher learned which whale the biologist in the documentary had **studied**
+the researcher learned which biologist the whale in the documentary had **studied**
+the researcher learned which biologist the whale had **eaten**
+the researcher learned which whale the biologist had **eaten**
+the researcher learned which biologist the whale in the documentary had **eaten**
+the researcher learned which whale the biologist in the documentary had **eaten**
+the birthday boy saw which friend the clown had **scared**
+the birthday boy saw which clown the friend had **scared**
+the birthday boy saw which friend the clown with the balloons had **scared**
+the birthday boy saw which clown the friend with the balloons had **scared**
+the birthday boy saw which clown the friend had **laughed**
+the birthday boy saw which friend the clown had **laughed**
+the birthday boy saw which clown the friend with the balloons had **laughed**
+the birthday boy saw which friend the clown with the balloons had **laughed**
+the columnist publicized which photographer the celebrity had **punched**
+the columnist publicized which celebrity the photographer had **punched**
+the columnist publicized which photographer the celebrity at the event had **punched**
+the columnist publicized which celebrity the photographer at the event had **punched**
+the columnist publicized which celebrity the photographer had **photographed**
+the columnist publicized which photographer the celebrity had **photographed**
+the columnist publicized which celebrity the photographer at the event had **photographed**
+the columnist publicized which photographer the celebrity at the event had **photographed**
+the royal cook asked which lord the chef had **served**
+the royal cook asked which chef the lord had **served**
+the royal cook asked which lord the chef at the castle had **served**
+the royal cook asked which chef the lord at the castle had **served**
+the royal cook asked which chef the lord had **preferred**
+the royal cook asked which lord the chef had **preferred**
+the royal cook asked which chef the lord at the castle had **preferred**
+the royal cook asked which lord the chef at the castle had **preferred**
+the trapeze artist indicated which lion the trainer had **trained**
+the trapeze artist indicated which trainer the lion had **trained**
+the trapeze artist indicated which lion the trainer at the zoo had **trained**
+the trapeze artist indicated which trainer the lion at the zoo had **trained**
+the trapeze artist indicated which trainer the lion had **eaten**
+the trapeze artist indicated which lion the trainer had **eaten**
+the trapeze artist indicated which trainer the lion at the zoo had **eaten**
+the trapeze artist indicated which lion the trainer at the zoo had **eaten**
+the wildlife curator mentioned which baboon the zookeeper had **captured**
+the wildlife curator mentioned which zookeeper the baboon had **captured**
+the wildlife curator mentioned which baboon the zookeeper from south africa had **captured**
+the wildlife curator mentioned which zookeeper the baboon from south africa had **captured**
+the wildlife curator mentioned which zookeeper the baboon had **attacked**
+the wildlife curator mentioned which baboon the zookeeper had **attacked**
+the wildlife curator mentioned which zookeeper the baboon from south africa had **attacked**
+the wildlife curator mentioned which baboon the zookeeper from south africa had **attacked**
+the dance instructor noticed which onlookers the performers had **impressed**
+the dance instructor noticed which performers the onlookers had **impressed**
+the dance instructor noticed which onlookers the performers at the theater had **impressed**
+the dance instructor noticed which performers the onlookers at the theater had **impressed**
+the dance instructor noticed which performers the onlookers had **watched**
+the dance instructor noticed which onlookers the performers had **watched**
+the dance instructor noticed which performers the onlookers at the theater had **watched**
+the dance instructor noticed which onlookers the performers at the theater had **watched**
+the ringmaster recognized which cheetah the tamer had **trained**
+the ringmaster recognized which tamer the cheetah had **trained**
+the ringmaster recognized which cheetah the tamer from the circus had **trained**
+the ringmaster recognized which tamer the cheetah from the circus had **trained**
+the ringmaster recognized which tamer the cheetah had **mauled**
+the ringmaster recognized which cheetah the tamer had **mauled**
+the ringmaster recognized which tamer the cheetah from the circus had **mauled**
+the ringmaster recognized which cheetah the tamer from the circus had **mauled**
+the bird watcher saw which photographer the hawk had **attacked**
+the bird watcher saw which hawk the photographer had **attacked**
+the bird watcher saw which photographer the hawk by the lake had **attacked**
+the bird watcher saw which hawk the photographer by the lake had **attacked**
+the bird watcher saw which hawk the photographer had **photographed**
+the bird watcher saw which photographer the hawk had **photographed**
+the bird watcher saw which hawk the photographer by the lake had **photographed**
+the bird watcher saw which photographer the hawk by the lake had **photographed**
+the costume designer confirmed which actor the barber had **shaved**
+the costume designer confirmed which barber the actor had **shaved**
+the costume designer confirmed which actor the barber in the studio had **shaved**
+the costume designer confirmed which barber the actor in the studio had **shaved**
+the costume designer confirmed which barber the actor had **used**
+the costume designer confirmed which actor the barber had **used**
+the costume designer confirmed which barber the actor in the studio had **used**
+the costume designer confirmed which actor the barber in the studio had **used**
+the young king identified which prince the elephant had **trampled**
+the young king identified which elephant the prince had **trampled**
+the young king identified which prince the elephant from northern india had **trampled**
+the young king identified which elephant the prince from northern india had **trampled**
+the young king identified which elephant the prince had **ridden**
+the young king identified which prince the elephant had **ridden**
+the young king identified which elephant the prince from northern india had **ridden**
+the young king identified which prince the elephant from northern india had **ridden**
+the sailor saw which whale the man had **harpooned**
+the sailor saw which man the whale had **harpooned**
+the sailor saw which whale the man by the island had **harpooned**
+the sailor saw which man the whale by the island had **harpooned**
+the sailor saw which man the whale had **swallowed**
+the sailor saw which whale the man had **swallowed**
+the sailor saw which man the whale by the island had **swallowed**
+the sailor saw which whale the man by the island had **swallowed**
+the movie goer recognized which woman the zombie had **bitten**
+the movie goer recognized which zombie the woman had **bitten**
+the movie goer recognized which woman the zombie in the story had **bitten**
+the movie goer recognized which zombie the woman in the story had **bitten**
+the movie goer recognized which zombie the woman had **shot**
+the movie goer recognized which woman the zombie had **shot**
+the movie goer recognized which zombie the woman in the story had **shot**
+the movie goer recognized which woman the zombie in the story had **shot**
+the broadcaster explained which contestant the judge had **chosen**
+the broadcaster explained which judge the contestant had **chosen**
+the broadcaster explained which contestant the judge on the stage had **chosen**
+the broadcaster explained which judge the contestant on the stage had **chosen**
+the broadcaster explained which judge the contestant had **impressed**
+the broadcaster explained which contestant the judge had **impressed**
+the broadcaster explained which judge the contestant on the stage had **impressed**
+the broadcaster explained which contestant the judge on the stage had **impressed**
+the campaign volunteer speculated which mayor the voters had **elected**
+the campaign volunteer speculated which voters the mayor had **elected**
+the campaign volunteer speculated which mayor the voters in the town had **elected**
+the campaign volunteer speculated which voters the mayor in the town had **elected**
+the campaign volunteer speculated which voters the mayor had **bribed**
+the campaign volunteer speculated which mayor the voters had **bribed**
+the campaign volunteer speculated which voters the mayor in the town had **bribed**
+the campaign volunteer speculated which mayor the voters in the town had **bribed**
+the producer observed which viewers the acrobats had **impressed**
+the producer observed which acrobats the viewers had **impressed**
+the producer observed which viewers the acrobats from the town had **impressed**
+the producer observed which acrobats the viewers from the town had **impressed**
+the producer observed which acrobats the viewers had **watched**
+the producer observed which viewers the acrobats had **watched**
+the producer observed which acrobats the viewers from the town had **watched**
+the producer observed which viewers the acrobats from the town had **watched**
+the queen recognized which nobleman the jester had **entertained**
+the queen recognized which jester the nobleman had **entertained**
+the queen recognized which nobleman the jester in the castle had **entertained**
+the queen recognized which jester the nobleman in the castle had **entertained**
+the queen recognized which jester the nobleman had **enjoyed**
+the queen recognized which nobleman the jester had **enjoyed**
+the queen recognized which jester the nobleman in the castle had **enjoyed**
+the queen recognized which nobleman the jester in the castle had **enjoyed**
+the boatman saw which shark the diver had **speared**
+the boatman saw which diver the shark had **speared**
+the boatman saw which shark the diver near the boat had **speared**
+the boatman saw which diver the shark near the boat had **speared**
+the boatman saw which diver the shark had **eaten**
+the boatman saw which shark the diver had **eaten**
+the boatman saw which diver the shark near the boat had **eaten**
+the boatman saw which shark the diver near the boat had **eaten**
+the zoo keeper indicated which donkey the visitor had **fed**
+the zoo keeper indicated which visitor the donkey had **fed**
+the zoo keeper indicated which donkey the visitor at the exhibit had **fed**
+the zoo keeper indicated which visitor the donkey at the exhibit had **fed**
+the zoo keeper indicated which visitor the donkey had **kicked**
+the zoo keeper indicated which donkey the visitor had **kicked**
+the zoo keeper indicated which visitor the donkey at the exhibit had **kicked**
+the zoo keeper indicated which donkey the visitor at the exhibit had **kicked**
+the parole officer confirmed which delinquent the psychologist had **treated**
+the parole officer confirmed which psychologist the delinquent had **treated**
+the parole officer confirmed which delinquent the psychologist at the institution had **treated**
+the parole officer confirmed which psychologist the delinquent at the institution had **treated**
+the parole officer confirmed which psychologist the delinquent had **visited**
+the parole officer confirmed which delinquent the psychologist had **visited**
+the parole officer confirmed which psychologist the delinquent at the institution had **visited**
+the parole officer confirmed which delinquent the psychologist at the institution had **visited**
+the pet store manager knew which customer the parrot had **bitten**
+the pet store manager knew which parrot the customer had **bitten**
+the pet store manager knew which customer the parrot by the cashier had **bitten**
+the pet store manager knew which parrot the customer by the cashier had **bitten**
+the pet store manager knew which parrot the customer had **bought**
+the pet store manager knew which customer the parrot had **bought**
+the pet store manager knew which parrot the customer by the cashier had **bought**
+the pet store manager knew which customer the parrot by the cashier had **bought**
+the art critic identified which model the artist had **painted**
+the art critic identified which artist the model had **painted**
+the art critic identified which model the artist at the gala had **painted**
+the art critic identified which artist the model at the gala had **painted**
+the art critic identified which artist the model had **posed**
+the art critic identified which model the artist had **posed**
+the art critic identified which artist the model at the gala had **posed**
+the art critic identified which model the artist at the gala had **posed**
+the farmhand recorded which goats the breeder had **bred**
+the farmhand recorded which breeder the goats had **bred**
+the farmhand recorded which goats the breeder on the mountain had **bred**
+the farmhand recorded which breeder the goats on the mountain had **bred**
+the farmhand recorded which breeder the goats had **belonged**
+the farmhand recorded which goats the breeder had **belonged**
+the farmhand recorded which breeder the goats on the mountain had **belonged**
+the farmhand recorded which goats the breeder on the mountain had **belonged**
+the bartender recounted which gambler the bouncer had **thrown**
+the bartender recounted which bouncer the gambler had **thrown**
+the bartender recounted which gambler the bouncer with sleeve tattoos had **thrown**
+the bartender recounted which bouncer the gambler with sleeve tattoos had **thrown**
+the bartender recounted which bouncer the gambler had **fought**
+the bartender recounted which gambler the bouncer had **fought**
+the bartender recounted which bouncer the gambler with sleeve tattoos had **fought**
+the bartender recounted which gambler the bouncer with sleeve tattoos had **fought**
+the bride forgot which seamstress the bridesmaid had **hired**
+the bride forgot which bridesmaid the seamstress had **hired**
+the bride forgot which seamstress the bridesmaid with a ponytail had **hired**
+the bride forgot which bridesmaid the seamstress with a ponytail had **hired**
+the bride forgot which bridesmaid the seamstress had **measured**
+the bride forgot which seamstress the bridesmaid had **measured**
+the bride forgot which bridesmaid the seamstress with a ponytail had **measured**
+the bride forgot which seamstress the bridesmaid with a ponytail had **measured**
+the defense lawyer realized which thief the cop had **arrested**
+the defense lawyer realized which cop the thief had **arrested**
+the defense lawyer realized which thief the cop with many freckles had **arrested**
+the defense lawyer realized which cop the thief with many freckles had **arrested**
+the defense lawyer realized which cop the thief had **shot**
+the defense lawyer realized which thief the cop had **shot**
+the defense lawyer realized which cop the thief with many freckles had **shot**
+the defense lawyer realized which thief the cop with many freckles had **shot**
+the judge reviewed which defendant the lawyer had **defended**
+the judge reviewed which lawyer the defendant had **defended**
+the judge reviewed which defendant the lawyer in a bowtie had **defended**
+the judge reviewed which lawyer the defendant in a bowtie had **defended**
+the judge reviewed which lawyer the defendant had **hired**
+the judge reviewed which defendant the lawyer had **hired**
+the judge reviewed which lawyer the defendant in a bowtie had **hired**
+the judge reviewed which defendant the lawyer in a bowtie had **hired**
+the manicurist guessed which millionaire the hairdresser had **worked**
+the manicurist guessed which hairdresser the millionaire had **worked**
+the manicurist guessed which millionaire the hairdresser from southern california had **worked**
+the manicurist guessed which hairdresser the millionaire from southern california had **worked**
+the manicurist guessed which hairdresser the millionaire had **used**
+the manicurist guessed which millionaire the hairdresser had **used**
+the manicurist guessed which hairdresser the millionaire from southern california had **used**
+the manicurist guessed which millionaire the hairdresser from southern california had **used**
+the old sailor recounted which monkey the pirate had **owned**
+the old sailor recounted which pirate the monkey had **owned**
+the old sailor recounted which monkey the pirate on the ship had **owned**
+the old sailor recounted which pirate the monkey on the ship had **owned**
+the old sailor recounted which pirate the monkey had **bitten**
+the old sailor recounted which monkey the pirate had **bitten**
+the old sailor recounted which pirate the monkey on the ship had **bitten**
+the old sailor recounted which monkey the pirate on the ship had **bitten**
+the personal assistant revealed which senator the chauffeur had **driven**
+the personal assistant revealed which chauffeur the senator had **driven**
+the personal assistant revealed which senator the chauffeur in a suit had **driven**
+the personal assistant revealed which chauffeur the senator in a suit had **driven**
+the personal assistant revealed which chauffeur the senator had **fired**
+the personal assistant revealed which senator the chauffeur had **fired**
+the personal assistant revealed which chauffeur the senator in a suit had **fired**
+the personal assistant revealed which senator the chauffeur in a suit had **fired**
+the physical therapist marked which gymnist the nutritionist had **advised**
+the physical therapist marked which nutritionist the gymnist had **advised**
+the physical therapist marked which gymnist the nutritionist with short hair had **advised**
+the physical therapist marked which nutritionist the gymnist with short hair had **advised**
+the physical therapist marked which nutritionist the gymnist had **consulted**
+the physical therapist marked which gymnist the nutritionist had **consulted**
+the physical therapist marked which nutritionist the gymnist with short hair had **consulted**
+the physical therapist marked which gymnist the nutritionist with short hair had **consulted**
+the plumber guessed which architect the homeowner had **hired**
+the plumber guessed which homeowner the architect had **hired**
+the plumber guessed which architect the homeowner on the phone had **hired**
+the plumber guessed which homeowner the architect on the phone had **hired**
+the plumber guessed which homeowner the architect had **helped**
+the plumber guessed which architect the homeowner had **helped**
+the plumber guessed which homeowner the architect on the phone had **helped**
+the plumber guessed which architect the homeowner on the phone had **helped**
+the secretary recalled which intern the manager had **fired**
+the secretary recalled which manager the intern had **fired**
+the secretary recalled which intern the manager with thick glasses had **fired**
+the secretary recalled which manager the intern with thick glasses had **fired**
+the secretary recalled which manager the intern had **worked**
+the secretary recalled which intern the manager had **worked**
+the secretary recalled which manager the intern with thick glasses had **worked**
+the secretary recalled which intern the manager with thick glasses had **worked**
+the stage manager concealed which dancer the pervert had **groped**
+the stage manager concealed which pervert the dancer had **groped**
+the stage manager concealed which dancer the pervert with the ponytail had **groped**
+the stage manager concealed which pervert the dancer with the ponytail had **groped**
+the stage manager concealed which pervert the dancer had **slapped**
+the stage manager concealed which dancer the pervert had **slapped**
+the stage manager concealed which pervert the dancer with the ponytail had **slapped**
+the stage manager concealed which dancer the pervert with the ponytail had **slapped**
+the testifier identified which junkie the officer had **arrested**
+the testifier identified which officer the junkie had **arrested**
+the testifier identified which junkie the officer with dark hair had **arrested**
+the testifier identified which officer the junkie with dark hair had **arrested**
+the testifier identified which officer the junkie had **attacked**
+the testifier identified which junkie the officer had **attacked**
+the testifier identified which officer the junkie with dark hair had **attacked**
+the testifier identified which junkie the officer with dark hair had **attacked**
+the librarian documented which celebrity the journalist had **written**
+the librarian documented which journalist the celebrity had **written**
+the librarian documented which celebrity the journalist from the netherlands had **written**
+the librarian documented which journalist the celebrity from the netherlands had **written**
+the old widower remembered which villager the ghost had **scared**
+the old widower remembered which ghost the villager had **scared**
+the old widower remembered which villager the ghost in the church had **scared**
+the old widower remembered which ghost the villager in the church had **scared**
+the park ranger documented which hunter the eagle had **attacked**
+the park ranger documented which eagle the hunter had **attacked**
+the park ranger documented which hunter the eagle in the woods had **attacked**
+the park ranger documented which eagle the hunter in the woods had **attacked**
+the head nun explained which friar the temptress had **tempted**
+the head nun explained which temptress the friar had **tempted**
+the head nun explained which friar the temptress from the village had **tempted**
+the head nun explained which temptress the friar from the village had **tempted**
+tracy announced which applicant the administrator had **hired**
+tracy announced which administrator the applicant had **hired**
+tracy announced which applicant the administrator in a suit had **hired**
+tracy announced which administrator the applicant in a suit had **hired**
+the police officer noted which burglar the jeweler had **identified**
+the police officer noted which jeweler the burglar had **identified**
+the police officer noted which burglar the jeweler at the mall had **identified**
+the police officer noted which jeweler the burglar at the mall had **identified**
+the aid worker realized which refugee the philanthropist had **helped**
+the aid worker realized which philanthropist the refugee had **helped**
+the aid worker realized which refugee the philanthropist with brown eyes had **helped**
+the aid worker realized which philanthropist the refugee with brown eyes had **helped**
+the camper reported which girl the bear had **attacked**
+the camper reported which bear the girl had **attacked**
+the camper reported which girl the bear on the path had **attacked**
+the camper reported which bear the girl on the path had **attacked**
+the high schooler heard which geek the jock had **bullied**
+the high schooler heard which jock the geek had **bullied**
+the high schooler heard which geek the jock in eighth grade had **bullied**
+the high schooler heard which jock the geek in eighth grade had **bullied**
+the parent saw which child the lifeguard had **rescued**
+the parent saw which lifeguard the child had **rescued**
+the parent saw which child the lifeguard in red shorts had **rescued**
+the parent saw which lifeguard the child in red shorts had **rescued**
+the investigator discovered which couple the abductor had **kidnapped**
+the investigator discovered which abductor the couple had **kidnapped**
+the investigator discovered which couple the abductor with blonde hair had **kidnapped**
+the investigator discovered which abductor the couple with blonde hair had **kidnapped**
+the jail keeper forgot which guard the prisoner had **attacked**
+the jail keeper forgot which prisoner the guard had **attacked**
+the jail keeper forgot which guard the prisoner in the cafeteria had **attacked**
+the jail keeper forgot which prisoner the guard in the cafeteria had **attacked**
+the sheriff recalled which locals the gangsters had **robbed**
+the sheriff recalled which gangsters the locals had **robbed**
+the sheriff recalled which locals the gangsters in the alleyway had **robbed**
+the sheriff recalled which gangsters the locals in the alleyway had **robbed**
+tonia explained which housewife the conman had **conned**
+tonia explained which conman the housewife had **conned**
+tonia explained which housewife the conman with the stutter had **conned**
+tonia explained which conman the housewife with the stutter had **conned**
+anna understood which soldier the doctor had **treated**
+anna understood which doctor the soldier had **treated**
+anna understood which soldier the doctor in the barracks had **treated**
+anna understood which doctor the soldier in the barracks had **treated**
+the newscaster confirmed which fugitive the detective had **arrested**
+the newscaster confirmed which detective the fugitive had **arrested**
+the newscaster confirmed which fugitive the detective with a gun had **arrested**
+the newscaster confirmed which detective the fugitive with a gun had **arrested**
+the opera composer revealed which singer the pirate had **killed**
+the opera composer revealed which pirate the singer had **killed**
+the opera composer revealed which singer the pirate with blue eyes had **killed**
+the opera composer revealed which pirate the singer with blue eyes had **killed**
+the prison warden guessed which jailer the inmate had **stabbed**
+the prison warden guessed which inmate the jailer had **stabbed**
+the prison warden guessed which jailer the inmate at the facility had **stabbed**
+the prison warden guessed which inmate the jailer at the facility had **stabbed**
+the reporter inquired which animals the groomer had **groomed**
+the reporter inquired which groomer the animals had **groomed**
+the reporter inquired which animals the groomer at the zoo had **groomed**
+the reporter inquired which groomer the animals at the zoo had **groomed**
+the ape researcher identified which chimpanzee the poacher had **shot**
+the ape researcher identified which poacher the chimpanzee had **shot**
+the ape researcher identified which chimpanzee the poacher in the jungle had **shot**
+the ape researcher identified which poacher the chimpanzee in the jungle had **shot**
+the committee member guessed which advisors the president had **consulted**
+the committee member guessed which president the advisors had **consulted**
+the committee member guessed which advisors the president at the meeting had **consulted**
+the committee member guessed which president the advisors at the meeting had **consulted**
+the military man knew which general the soldiers had **respected**
+the military man knew which soldiers the general had **respected**
+the military man knew which general the soldiers on the field had **respected**
+the military man knew which soldiers the general on the field had **respected**
+the policeman knew which suspect the detective had **arrested**
+the policeman knew which detective the suspect had **arrested**
+the policeman knew which suspect the detective with a cap had **arrested**
+the policeman knew which detective the suspect with a cap had **arrested**
+the priest knew which exorcist the demon had **possessed**
+the priest knew which demon the exorcist had **possessed**
+the priest knew which exorcist the demon at the graveyard had **possessed**
+the priest knew which demon the exorcist at the graveyard had **possessed**
+the four-year-old knew which hero the dragon had **eaten**
+the four-year-old knew which dragon the hero had **eaten**
+the four-year-old knew which hero the dragon in the story had **eaten**
+the four-year-old knew which dragon the hero in the story had **eaten**
+the security guard investigated which loiterer the patrolman had **arrested**
+the security guard investigated which patrolman the loiterer had **arrested**
+the security guard investigated which loiterer the patrolman in the building had **arrested**
+the security guard investigated which patrolman the loiterer in the building had **arrested**
+the advisor determined which student the professor had **taught**
+the advisor determined which professor the student had **taught**
+the advisor determined which student the professor from the philippines had **taught**
+the advisor determined which professor the student from the philippines had **taught**
+the aunt surmised which uncle the nephew had **favored**
+the aunt surmised which nephew the uncle had **favored**
+the aunt surmised which nephew the uncle with thick glasses had **favored**
+the aunt surmised which uncle the nephew with thick glasses had **favored**
+the office worker noted which secretary the supervisor had **fired**
+the office worker noted which supervisor the secretary had **fired**
+the office worker noted which secretary the supervisor at the meeting had **fired**
+the office worker noted which supervisor the secretary at the meeting had **fired**
+the doctor inquired which sociopath the psychotherapist had **treated**
+the doctor inquired which psychotherapist the sociopath had **treated**
+the doctor inquired which sociopath the psychotherapist with curly hair had **treated**
+the doctor inquired which psychotherapist the sociopath with curly hair had **treated**
+the manager asked which visitor the receptionist had **greeted**
+the manager asked which receptionist the visitor had **greeted**
+the manager asked which visitor the receptionist in the lobby had **greeted**
+the manager asked which receptionist the visitor in the lobby had **greeted**
+the monk indicated which leper the nun had **healed**
+the monk indicated which nun the leper had **healed**
+the monk indicated which leper the nun from the village had **healed**
+the monk indicated which nun the leper from the village had **healed**
+the press secretary acknowledged which politician the informant had **identified**
+the press secretary acknowledged which informant the politician had **identified**
+the press secretary acknowledged which politician the informant in the photo had **identified**
+the press secretary acknowledged which informant the politician in the photo had **identified**
+the seer indicated which priestess the goat had **bitten**
+the seer indicated which goat the priestess had **bitten**
+the seer indicated which priestess the goat in the meadow had **bitten**
+the seer indicated which goat the priestess in the meadow had **bitten**
+the sound technician named which guitarist the stagehand had **helped**
+the sound technician named which stagehand the guitarist had **helped**
+the sound technician named which guitarist the stagehand with spikey hair had **helped**
+the sound technician named which stagehand the guitarist with spikey hair had **helped**
+the trumpeter knew which musician the director had **fired**
+the trumpeter knew which director the musician had **fired**
+the trumpeter knew which musician the director on the stage had **fired**
+the trumpeter knew which director the musician on the stage had **fired**
+the watchman inquired which teenager the gangsters had **beaten**
+the watchman inquired which gangsters the teenager had **beaten**
+the watchman inquired which teenager the gangsters on the streets had **beaten**
+the watchman inquired which gangsters the teenager on the streets had **beaten**
+the witness identified which jogger the driver had **ran**
+the witness identified which driver the jogger had **ran**
+the witness identified which jogger the driver with grey hair had **ran**
+the witness identified which driver the jogger with grey hair had **ran**
